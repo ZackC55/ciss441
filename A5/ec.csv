@@ -1,0 +1,3012 @@
+# This file contains raw data of the electoral college.
+
+ID,Year,State,Votes
+1,1788,Alabama,0
+2,1788,Alaska,0
+3,1788,Arizona,0
+4,1788,Arkansas,0
+5,1788,California,0
+6,1788,Colorado,0
+7,1788,Connecticut,7
+8,1788,D.C.,0
+9,1788,Delaware,3
+10,1788,Florida,0
+11,1788,Georgia,5
+12,1788,Hawaii,0
+13,1788,Idaho,0
+14,1788,Illinois,0
+15,1788,Indiana,0
+16,1788,Iowa,0
+17,1788,Kansas,0
+18,1788,Kentucky,0
+19,1788,Louisiana,0
+20,1788,Maine,0
+21,1788,Maryland,8
+22,1788,Massachusetts,10
+23,1788,Michigan,0
+24,1788,Minnesota,0
+25,1788,Mississippi,0
+26,1788,Missouri,0
+27,1788,Montana,0
+28,1788,Nebraska,0
+29,1788,Nevada,0
+30,1788,New Hampshire,5
+31,1788,New Jersey,6
+32,1788,New Mexico,0
+33,1788,New York,8
+34,1788,North Carolina,0
+35,1788,North Dakota,0
+36,1788,Ohio,0
+37,1788,Oklahoma,0
+38,1788,Oregon,0
+39,1788,Pennsylvania,10
+40,1788,Rhode Island,0
+41,1788,South Carolina,7
+42,1788,South Dakota,0
+43,1788,Tennessee,0
+44,1788,Texas,0
+45,1788,Utah,0
+46,1788,Vermont,0
+47,1788,Virginia,12
+48,1788,Washington,0
+49,1788,West Virginia,0
+50,1788,Wisconsin,0
+51,1788,Wyoming,0
+52,1792,Alabama,0
+53,1792,Alaska,0
+54,1792,Arizona,0
+55,1792,Arkansas,0
+56,1792,California,0
+57,1792,Colorado,0
+58,1792,Connecticut,9
+59,1792,D.C.,0
+60,1792,Delaware,3
+61,1792,Florida,0
+62,1792,Georgia,4
+63,1792,Hawaii,0
+64,1792,Idaho,0
+65,1792,Illinois,0
+66,1792,Indiana,0
+67,1792,Iowa,0
+68,1792,Kansas,0
+69,1792,Kentucky,4
+70,1792,Louisiana,0
+71,1792,Maine,0
+72,1792,Maryland,10
+73,1792,Massachusetts,16
+74,1792,Michigan,0
+75,1792,Minnesota,0
+76,1792,Mississippi,0
+77,1792,Missouri,0
+78,1792,Montana,0
+79,1792,Nebraska,0
+80,1792,Nevada,0
+81,1792,New Hampshire,6
+82,1792,New Jersey,7
+83,1792,New Mexico,0
+84,1792,New York,12
+85,1792,North Carolina,12
+86,1792,North Dakota,0
+87,1792,Ohio,0
+88,1792,Oklahoma,0
+89,1792,Oregon,0
+90,1792,Pennsylvania,15
+91,1792,Rhode Island,4
+92,1792,South Carolina,8
+93,1792,South Dakota,0
+94,1792,Tennessee,0
+95,1792,Texas,0
+96,1792,Utah,0
+97,1792,Vermont,4
+98,1792,Virginia,21
+99,1792,Washington,0
+100,1792,West Virginia,0
+101,1792,Wisconsin,0
+102,1792,Wyoming,0
+103,1796,Alabama,0
+104,1796,Alaska,0
+105,1796,Arizona,0
+106,1796,Arkansas,0
+107,1796,California,0
+108,1796,Colorado,0
+109,1796,Connecticut,9
+110,1796,D.C.,0
+111,1796,Delaware,3
+112,1796,Florida,0
+113,1796,Georgia,4
+114,1796,Hawaii,0
+115,1796,Idaho,0
+116,1796,Illinois,0
+117,1796,Indiana,0
+118,1796,Iowa,0
+119,1796,Kansas,0
+120,1796,Kentucky,4
+121,1796,Louisiana,0
+122,1796,Maine,0
+123,1796,Maryland,10
+124,1796,Massachusetts,16
+125,1796,Michigan,0
+126,1796,Minnesota,0
+127,1796,Mississippi,0
+128,1796,Missouri,0
+129,1796,Montana,0
+130,1796,Nebraska,0
+131,1796,Nevada,0
+132,1796,New Hampshire,6
+133,1796,New Jersey,7
+134,1796,New Mexico,0
+135,1796,New York,12
+136,1796,North Carolina,12
+137,1796,North Dakota,0
+138,1796,Ohio,0
+139,1796,Oklahoma,0
+140,1796,Oregon,0
+141,1796,Pennsylvania,15
+142,1796,Rhode Island,4
+143,1796,South Carolina,8
+144,1796,South Dakota,0
+145,1796,Tennessee,3
+146,1796,Texas,0
+147,1796,Utah,0
+148,1796,Vermont,4
+149,1796,Virginia,21
+150,1796,Washington,0
+151,1796,West Virginia,0
+152,1796,Wisconsin,0
+153,1796,Wyoming,0
+154,1800,Alabama,0
+155,1800,Alaska,0
+156,1800,Arizona,0
+157,1800,Arkansas,0
+158,1800,California,0
+159,1800,Colorado,0
+160,1800,Connecticut,9
+161,1800,D.C.,0
+162,1800,Delaware,3
+163,1800,Florida,0
+164,1800,Georgia,4
+165,1800,Hawaii,0
+166,1800,Idaho,0
+167,1800,Illinois,0
+168,1800,Indiana,0
+169,1800,Iowa,0
+170,1800,Kansas,0
+171,1800,Kentucky,4
+172,1800,Louisiana,0
+173,1800,Maine,0
+174,1800,Maryland,10
+175,1800,Massachusetts,16
+176,1800,Michigan,0
+177,1800,Minnesota,0
+178,1800,Mississippi,0
+179,1800,Missouri,0
+180,1800,Montana,0
+181,1800,Nebraska,0
+182,1800,Nevada,0
+183,1800,New Hampshire,6
+184,1800,New Jersey,7
+185,1800,New Mexico,0
+186,1800,New York,12
+187,1800,North Carolina,12
+188,1800,North Dakota,0
+189,1800,Ohio,0
+190,1800,Oklahoma,0
+191,1800,Oregon,0
+192,1800,Pennsylvania,15
+193,1800,Rhode Island,4
+194,1800,South Carolina,8
+195,1800,South Dakota,0
+196,1800,Tennessee,3
+197,1800,Texas,0
+198,1800,Utah,0
+199,1800,Vermont,4
+200,1800,Virginia,21
+201,1800,Washington,0
+202,1800,West Virginia,0
+203,1800,Wisconsin,0
+204,1800,Wyoming,0
+205,1804,Alabama,0
+206,1804,Alaska,0
+207,1804,Arizona,0
+208,1804,Arkansas,0
+209,1804,California,0
+210,1804,Colorado,0
+211,1804,Connecticut,9
+212,1804,D.C.,0
+213,1804,Delaware,3
+214,1804,Florida,0
+215,1804,Georgia,6
+216,1804,Hawaii,0
+217,1804,Idaho,0
+218,1804,Illinois,0
+219,1804,Indiana,0
+220,1804,Iowa,0
+221,1804,Kansas,0
+222,1804,Kentucky,8
+223,1804,Louisiana,0
+224,1804,Maine,0
+225,1804,Maryland,11
+226,1804,Massachusetts,19
+227,1804,Michigan,0
+228,1804,Minnesota,0
+229,1804,Mississippi,0
+230,1804,Missouri,0
+231,1804,Montana,0
+232,1804,Nebraska,0
+233,1804,Nevada,0
+234,1804,New Hampshire,7
+235,1804,New Jersey,8
+236,1804,New Mexico,0
+237,1804,New York,19
+238,1804,North Carolina,14
+239,1804,North Dakota,0
+240,1804,Ohio,3
+241,1804,Oklahoma,0
+242,1804,Oregon,0
+243,1804,Pennsylvania,20
+244,1804,Rhode Island,4
+245,1804,South Carolina,10
+246,1804,South Dakota,0
+247,1804,Tennessee,5
+248,1804,Texas,0
+249,1804,Utah,0
+250,1804,Vermont,6
+251,1804,Virginia,24
+252,1804,Washington,0
+253,1804,West Virginia,0
+254,1804,Wisconsin,0
+255,1804,Wyoming,0
+256,1808,Alabama,0
+257,1808,Alaska,0
+258,1808,Arizona,0
+259,1808,Arkansas,0
+260,1808,California,0
+261,1808,Colorado,0
+262,1808,Connecticut,9
+263,1808,D.C.,0
+264,1808,Delaware,3
+265,1808,Florida,0
+266,1808,Georgia,6
+267,1808,Hawaii,0
+268,1808,Idaho,0
+269,1808,Illinois,0
+270,1808,Indiana,0
+271,1808,Iowa,0
+272,1808,Kansas,0
+273,1808,Kentucky,8
+274,1808,Louisiana,0
+275,1808,Maine,0
+276,1808,Maryland,11
+277,1808,Massachusetts,19
+278,1808,Michigan,0
+279,1808,Minnesota,0
+280,1808,Mississippi,0
+281,1808,Missouri,0
+282,1808,Montana,0
+283,1808,Nebraska,0
+284,1808,Nevada,0
+285,1808,New Hampshire,7
+286,1808,New Jersey,8
+287,1808,New Mexico,0
+288,1808,New York,19
+289,1808,North Carolina,14
+290,1808,North Dakota,0
+291,1808,Ohio,3
+292,1808,Oklahoma,0
+293,1808,Oregon,0
+294,1808,Pennsylvania,20
+295,1808,Rhode Island,4
+296,1808,South Carolina,10
+297,1808,South Dakota,0
+298,1808,Tennessee,5
+299,1808,Texas,0
+300,1808,Utah,0
+301,1808,Vermont,6
+302,1808,Virginia,24
+303,1808,Washington,0
+304,1808,West Virginia,0
+305,1808,Wisconsin,0
+306,1808,Wyoming,0
+307,1812,Alabama,0
+308,1812,Alaska,0
+309,1812,Arizona,0
+310,1812,Arkansas,0
+311,1812,California,0
+312,1812,Colorado,0
+313,1812,Connecticut,9
+314,1812,D.C.,0
+315,1812,Delaware,4
+316,1812,Florida,0
+317,1812,Georgia,8
+318,1812,Hawaii,0
+319,1812,Idaho,0
+320,1812,Illinois,0
+321,1812,Indiana,0
+322,1812,Iowa,0
+323,1812,Kansas,0
+324,1812,Kentucky,12
+325,1812,Louisiana,3
+326,1812,Maine,0
+327,1812,Maryland,11
+328,1812,Massachusetts,22
+329,1812,Michigan,0
+330,1812,Minnesota,0
+331,1812,Mississippi,0
+332,1812,Missouri,0
+333,1812,Montana,0
+334,1812,Nebraska,0
+335,1812,Nevada,0
+336,1812,New Hampshire,8
+337,1812,New Jersey,8
+338,1812,New Mexico,0
+339,1812,New York,29
+340,1812,North Carolina,15
+341,1812,North Dakota,0
+342,1812,Ohio,8
+343,1812,Oklahoma,0
+344,1812,Oregon,0
+345,1812,Pennsylvania,25
+346,1812,Rhode Island,4
+347,1812,South Carolina,11
+348,1812,South Dakota,0
+349,1812,Tennessee,8
+350,1812,Texas,0
+351,1812,Utah,0
+352,1812,Vermont,8
+353,1812,Virginia,25
+354,1812,Washington,0
+355,1812,West Virginia,0
+356,1812,Wisconsin,0
+357,1812,Wyoming,0
+358,1816,Alabama,0
+359,1816,Alaska,0
+360,1816,Arizona,0
+361,1816,Arkansas,0
+362,1816,California,0
+363,1816,Colorado,0
+364,1816,Connecticut,9
+365,1816,D.C.,0
+366,1816,Delaware,4
+367,1816,Florida,0
+368,1816,Georgia,8
+369,1816,Hawaii,0
+370,1816,Idaho,0
+371,1816,Illinois,0
+372,1816,Indiana,3
+373,1816,Iowa,0
+374,1816,Kansas,0
+375,1816,Kentucky,12
+376,1816,Louisiana,3
+377,1816,Maine,0
+378,1816,Maryland,11
+379,1816,Massachusetts,22
+380,1816,Michigan,0
+381,1816,Minnesota,0
+382,1816,Mississippi,0
+383,1816,Missouri,0
+384,1816,Montana,0
+385,1816,Nebraska,0
+386,1816,Nevada,0
+387,1816,New Hampshire,8
+388,1816,New Jersey,8
+389,1816,New Mexico,0
+390,1816,New York,29
+391,1816,North Carolina,15
+392,1816,North Dakota,0
+393,1816,Ohio,8
+394,1816,Oklahoma,0
+395,1816,Oregon,0
+396,1816,Pennsylvania,25
+397,1816,Rhode Island,4
+398,1816,South Carolina,11
+399,1816,South Dakota,0
+400,1816,Tennessee,8
+401,1816,Texas,0
+402,1816,Utah,0
+403,1816,Vermont,8
+404,1816,Virginia,25
+405,1816,Washington,0
+406,1816,West Virginia,0
+407,1816,Wisconsin,0
+408,1816,Wyoming,0
+409,1820,Alabama,3
+410,1820,Alaska,0
+411,1820,Arizona,0
+412,1820,Arkansas,0
+413,1820,California,0
+414,1820,Colorado,0
+415,1820,Connecticut,9
+416,1820,D.C.,0
+417,1820,Delaware,4
+418,1820,Florida,0
+419,1820,Georgia,8
+420,1820,Hawaii,0
+421,1820,Idaho,0
+422,1820,Illinois,3
+423,1820,Indiana,3
+424,1820,Iowa,0
+425,1820,Kansas,0
+426,1820,Kentucky,12
+427,1820,Louisiana,3
+428,1820,Maine,9
+429,1820,Maryland,11
+430,1820,Massachusetts,15
+431,1820,Michigan,0
+432,1820,Minnesota,0
+433,1820,Mississippi,3
+434,1820,Missouri,3
+435,1820,Montana,0
+436,1820,Nebraska,0
+437,1820,Nevada,0
+438,1820,New Hampshire,8
+439,1820,New Jersey,8
+440,1820,New Mexico,0
+441,1820,New York,29
+442,1820,North Carolina,15
+443,1820,North Dakota,0
+444,1820,Ohio,8
+445,1820,Oklahoma,0
+446,1820,Oregon,0
+447,1820,Pennsylvania,25
+448,1820,Rhode Island,4
+449,1820,South Carolina,11
+450,1820,South Dakota,0
+451,1820,Tennessee,8
+452,1820,Texas,0
+453,1820,Utah,0
+454,1820,Vermont,8
+455,1820,Virginia,25
+456,1820,Washington,0
+457,1820,West Virginia,0
+458,1820,Wisconsin,0
+459,1820,Wyoming,0
+460,1824,Alabama,5
+461,1824,Alaska,0
+462,1824,Arizona,0
+463,1824,Arkansas,0
+464,1824,California,0
+465,1824,Colorado,0
+466,1824,Connecticut,8
+467,1824,D.C.,0
+468,1824,Delaware,3
+469,1824,Florida,0
+470,1824,Georgia,9
+471,1824,Hawaii,0
+472,1824,Idaho,0
+473,1824,Illinois,3
+474,1824,Indiana,5
+475,1824,Iowa,0
+476,1824,Kansas,0
+477,1824,Kentucky,14
+478,1824,Louisiana,5
+479,1824,Maine,9
+480,1824,Maryland,11
+481,1824,Massachusetts,15
+482,1824,Michigan,0
+483,1824,Minnesota,0
+484,1824,Mississippi,3
+485,1824,Missouri,3
+486,1824,Montana,0
+487,1824,Nebraska,0
+488,1824,Nevada,0
+489,1824,New Hampshire,8
+490,1824,New Jersey,8
+491,1824,New Mexico,0
+492,1824,New York,36
+493,1824,North Carolina,15
+494,1824,North Dakota,0
+495,1824,Ohio,16
+496,1824,Oklahoma,0
+497,1824,Oregon,0
+498,1824,Pennsylvania,28
+499,1824,Rhode Island,4
+500,1824,South Carolina,11
+501,1824,South Dakota,0
+502,1824,Tennessee,11
+503,1824,Texas,0
+504,1824,Utah,0
+505,1824,Vermont,7
+506,1824,Virginia,24
+507,1824,Washington,0
+508,1824,West Virginia,0
+509,1824,Wisconsin,0
+510,1824,Wyoming,0
+511,1828,Alabama,5
+512,1828,Alaska,0
+513,1828,Arizona,0
+514,1828,Arkansas,0
+515,1828,California,0
+516,1828,Colorado,0
+517,1828,Connecticut,8
+518,1828,D.C.,0
+519,1828,Delaware,3
+520,1828,Florida,0
+521,1828,Georgia,9
+522,1828,Hawaii,0
+523,1828,Idaho,0
+524,1828,Illinois,3
+525,1828,Indiana,5
+526,1828,Iowa,0
+527,1828,Kansas,0
+528,1828,Kentucky,14
+529,1828,Louisiana,5
+530,1828,Maine,9
+531,1828,Maryland,11
+532,1828,Massachusetts,15
+533,1828,Michigan,0
+534,1828,Minnesota,0
+535,1828,Mississippi,3
+536,1828,Missouri,3
+537,1828,Montana,0
+538,1828,Nebraska,0
+539,1828,Nevada,0
+540,1828,New Hampshire,8
+541,1828,New Jersey,8
+542,1828,New Mexico,0
+543,1828,New York,36
+544,1828,North Carolina,15
+545,1828,North Dakota,0
+546,1828,Ohio,16
+547,1828,Oklahoma,0
+548,1828,Oregon,0
+549,1828,Pennsylvania,28
+550,1828,Rhode Island,4
+551,1828,South Carolina,11
+552,1828,South Dakota,0
+553,1828,Tennessee,11
+554,1828,Texas,0
+555,1828,Utah,0
+556,1828,Vermont,7
+557,1828,Virginia,24
+558,1828,Washington,0
+559,1828,West Virginia,0
+560,1828,Wisconsin,0
+561,1828,Wyoming,0
+562,1832,Alabama,7
+563,1832,Alaska,0
+564,1832,Arizona,0
+565,1832,Arkansas,0
+566,1832,California,0
+567,1832,Colorado,0
+568,1832,Connecticut,8
+569,1832,D.C.,0
+570,1832,Delaware,3
+571,1832,Florida,0
+572,1832,Georgia,11
+573,1832,Hawaii,0
+574,1832,Idaho,0
+575,1832,Illinois,5
+576,1832,Indiana,9
+577,1832,Iowa,0
+578,1832,Kansas,0
+579,1832,Kentucky,15
+580,1832,Louisiana,5
+581,1832,Maine,10
+582,1832,Maryland,10
+583,1832,Massachusetts,14
+584,1832,Michigan,0
+585,1832,Minnesota,0
+586,1832,Mississippi,4
+587,1832,Missouri,4
+588,1832,Montana,0
+589,1832,Nebraska,0
+590,1832,Nevada,0
+591,1832,New Hampshire,7
+592,1832,New Jersey,8
+593,1832,New Mexico,0
+594,1832,New York,42
+595,1832,North Carolina,15
+596,1832,North Dakota,0
+597,1832,Ohio,21
+598,1832,Oklahoma,0
+599,1832,Oregon,0
+600,1832,Pennsylvania,30
+601,1832,Rhode Island,4
+602,1832,South Carolina,11
+603,1832,South Dakota,0
+604,1832,Tennessee,15
+605,1832,Texas,0
+606,1832,Utah,0
+607,1832,Vermont,7
+608,1832,Virginia,23
+609,1832,Washington,0
+610,1832,West Virginia,0
+611,1832,Wisconsin,0
+612,1832,Wyoming,0
+613,1836,Alabama,7
+614,1836,Alaska,0
+615,1836,Arizona,0
+616,1836,Arkansas,3
+617,1836,California,0
+618,1836,Colorado,0
+619,1836,Connecticut,8
+620,1836,D.C.,0
+621,1836,Delaware,3
+622,1836,Florida,0
+623,1836,Georgia,11
+624,1836,Hawaii,0
+625,1836,Idaho,0
+626,1836,Illinois,5
+627,1836,Indiana,9
+628,1836,Iowa,0
+629,1836,Kansas,0
+630,1836,Kentucky,15
+631,1836,Louisiana,5
+632,1836,Maine,10
+633,1836,Maryland,10
+634,1836,Massachusetts,14
+635,1836,Michigan,3
+636,1836,Minnesota,0
+637,1836,Mississippi,4
+638,1836,Missouri,4
+639,1836,Montana,0
+640,1836,Nebraska,0
+641,1836,Nevada,0
+642,1836,New Hampshire,7
+643,1836,New Jersey,8
+644,1836,New Mexico,0
+645,1836,New York,42
+646,1836,North Carolina,15
+647,1836,North Dakota,0
+648,1836,Ohio,21
+649,1836,Oklahoma,0
+650,1836,Oregon,0
+651,1836,Pennsylvania,30
+652,1836,Rhode Island,4
+653,1836,South Carolina,11
+654,1836,South Dakota,0
+655,1836,Tennessee,15
+656,1836,Texas,0
+657,1836,Utah,0
+658,1836,Vermont,7
+659,1836,Virginia,23
+660,1836,Washington,0
+661,1836,West Virginia,0
+662,1836,Wisconsin,0
+663,1836,Wyoming,0
+664,1840,Alabama,7
+665,1840,Alaska,0
+666,1840,Arizona,0
+667,1840,Arkansas,3
+668,1840,California,0
+669,1840,Colorado,0
+670,1840,Connecticut,8
+671,1840,D.C.,0
+672,1840,Delaware,3
+673,1840,Florida,0
+674,1840,Georgia,11
+675,1840,Hawaii,0
+676,1840,Idaho,0
+677,1840,Illinois,5
+678,1840,Indiana,9
+679,1840,Iowa,0
+680,1840,Kansas,0
+681,1840,Kentucky,15
+682,1840,Louisiana,5
+683,1840,Maine,10
+684,1840,Maryland,10
+685,1840,Massachusetts,14
+686,1840,Michigan,3
+687,1840,Minnesota,0
+688,1840,Mississippi,4
+689,1840,Missouri,4
+690,1840,Montana,0
+691,1840,Nebraska,0
+692,1840,Nevada,0
+693,1840,New Hampshire,7
+694,1840,New Jersey,8
+695,1840,New Mexico,0
+696,1840,New York,42
+697,1840,North Carolina,15
+698,1840,North Dakota,0
+699,1840,Ohio,21
+700,1840,Oklahoma,0
+701,1840,Oregon,0
+702,1840,Pennsylvania,30
+703,1840,Rhode Island,4
+704,1840,South Carolina,11
+705,1840,South Dakota,0
+706,1840,Tennessee,15
+707,1840,Texas,0
+708,1840,Utah,0
+709,1840,Vermont,7
+710,1840,Virginia,23
+711,1840,Washington,0
+712,1840,West Virginia,0
+713,1840,Wisconsin,0
+714,1840,Wyoming,0
+715,1844,Alabama,9
+716,1844,Alaska,0
+717,1844,Arizona,0
+718,1844,Arkansas,3
+719,1844,California,0
+720,1844,Colorado,0
+721,1844,Connecticut,6
+722,1844,D.C.,0
+723,1844,Delaware,3
+724,1844,Florida,0
+725,1844,Georgia,10
+726,1844,Hawaii,0
+727,1844,Idaho,0
+728,1844,Illinois,9
+729,1844,Indiana,12
+730,1844,Iowa,0
+731,1844,Kansas,0
+732,1844,Kentucky,12
+733,1844,Louisiana,6
+734,1844,Maine,9
+735,1844,Maryland,8
+736,1844,Massachusetts,12
+737,1844,Michigan,5
+738,1844,Minnesota,0
+739,1844,Mississippi,6
+740,1844,Missouri,7
+741,1844,Montana,0
+742,1844,Nebraska,0
+743,1844,Nevada,0
+744,1844,New Hampshire,6
+745,1844,New Jersey,7
+746,1844,New Mexico,0
+747,1844,New York,36
+748,1844,North Carolina,11
+749,1844,North Dakota,0
+750,1844,Ohio,23
+751,1844,Oklahoma,0
+752,1844,Oregon,0
+753,1844,Pennsylvania,26
+754,1844,Rhode Island,4
+755,1844,South Carolina,9
+756,1844,South Dakota,0
+757,1844,Tennessee,13
+758,1844,Texas,0
+759,1844,Utah,0
+760,1844,Vermont,6
+761,1844,Virginia,17
+762,1844,Washington,0
+763,1844,West Virginia,0
+764,1844,Wisconsin,0
+765,1844,Wyoming,0
+766,1848,Alabama,9
+767,1848,Alaska,0
+768,1848,Arizona,0
+769,1848,Arkansas,3
+770,1848,California,0
+771,1848,Colorado,0
+772,1848,Connecticut,6
+773,1848,D.C.,0
+774,1848,Delaware,3
+775,1848,Florida,3
+776,1848,Georgia,10
+777,1848,Hawaii,0
+778,1848,Idaho,0
+779,1848,Illinois,9
+780,1848,Indiana,12
+781,1848,Iowa,4
+782,1848,Kansas,0
+783,1848,Kentucky,12
+784,1848,Louisiana,6
+785,1848,Maine,9
+786,1848,Maryland,8
+787,1848,Massachusetts,12
+788,1848,Michigan,5
+789,1848,Minnesota,0
+790,1848,Mississippi,6
+791,1848,Missouri,7
+792,1848,Montana,0
+793,1848,Nebraska,0
+794,1848,Nevada,0
+795,1848,New Hampshire,6
+796,1848,New Jersey,7
+797,1848,New Mexico,0
+798,1848,New York,36
+799,1848,North Carolina,11
+800,1848,North Dakota,0
+801,1848,Ohio,23
+802,1848,Oklahoma,0
+803,1848,Oregon,0
+804,1848,Pennsylvania,26
+805,1848,Rhode Island,4
+806,1848,South Carolina,9
+807,1848,South Dakota,0
+808,1848,Tennessee,13
+809,1848,Texas,4
+810,1848,Utah,0
+811,1848,Vermont,6
+812,1848,Virginia,17
+813,1848,Washington,0
+814,1848,West Virginia,0
+815,1848,Wisconsin,4
+816,1848,Wyoming,0
+817,1852,Alabama,9
+818,1852,Alaska,0
+819,1852,Arizona,0
+820,1852,Arkansas,4
+821,1852,California,4
+822,1852,Colorado,0
+823,1852,Connecticut,6
+824,1852,D.C.,0
+825,1852,Delaware,3
+826,1852,Florida,3
+827,1852,Georgia,10
+828,1852,Hawaii,0
+829,1852,Idaho,0
+830,1852,Illinois,11
+831,1852,Indiana,13
+832,1852,Iowa,4
+833,1852,Kansas,0
+834,1852,Kentucky,12
+835,1852,Louisiana,6
+836,1852,Maine,8
+837,1852,Maryland,8
+838,1852,Massachusetts,13
+839,1852,Michigan,6
+840,1852,Minnesota,0
+841,1852,Mississippi,7
+842,1852,Missouri,9
+843,1852,Montana,0
+844,1852,Nebraska,0
+845,1852,Nevada,0
+846,1852,New Hampshire,5
+847,1852,New Jersey,7
+848,1852,New Mexico,0
+849,1852,New York,35
+850,1852,North Carolina,10
+851,1852,North Dakota,0
+852,1852,Ohio,23
+853,1852,Oklahoma,0
+854,1852,Oregon,0
+855,1852,Pennsylvania,27
+856,1852,Rhode Island,4
+857,1852,South Carolina,8
+858,1852,South Dakota,0
+859,1852,Tennessee,12
+860,1852,Texas,4
+861,1852,Utah,0
+862,1852,Vermont,5
+863,1852,Virginia,15
+864,1852,Washington,0
+865,1852,West Virginia,0
+866,1852,Wisconsin,5
+867,1852,Wyoming,0
+868,1856,Alabama,9
+869,1856,Alaska,0
+870,1856,Arizona,0
+871,1856,Arkansas,4
+872,1856,California,4
+873,1856,Colorado,0
+874,1856,Connecticut,6
+875,1856,D.C.,0
+876,1856,Delaware,3
+877,1856,Florida,3
+878,1856,Georgia,10
+879,1856,Hawaii,0
+880,1856,Idaho,0
+881,1856,Illinois,11
+882,1856,Indiana,13
+883,1856,Iowa,4
+884,1856,Kansas,0
+885,1856,Kentucky,12
+886,1856,Louisiana,6
+887,1856,Maine,8
+888,1856,Maryland,8
+889,1856,Massachusetts,13
+890,1856,Michigan,6
+891,1856,Minnesota,0
+892,1856,Mississippi,7
+893,1856,Missouri,9
+894,1856,Montana,0
+895,1856,Nebraska,0
+896,1856,Nevada,0
+897,1856,New Hampshire,5
+898,1856,New Jersey,7
+899,1856,New Mexico,0
+900,1856,New York,35
+901,1856,North Carolina,10
+902,1856,North Dakota,0
+903,1856,Ohio,23
+904,1856,Oklahoma,0
+905,1856,Oregon,0
+906,1856,Pennsylvania,27
+907,1856,Rhode Island,4
+908,1856,South Carolina,8
+909,1856,South Dakota,0
+910,1856,Tennessee,12
+911,1856,Texas,4
+912,1856,Utah,0
+913,1856,Vermont,5
+914,1856,Virginia,15
+915,1856,Washington,0
+916,1856,West Virginia,0
+917,1856,Wisconsin,5
+918,1856,Wyoming,0
+919,1860,Alabama,9
+920,1860,Alaska,0
+921,1860,Arizona,0
+922,1860,Arkansas,4
+923,1860,California,4
+924,1860,Colorado,0
+925,1860,Connecticut,6
+926,1860,D.C.,0
+927,1860,Delaware,3
+928,1860,Florida,3
+929,1860,Georgia,10
+930,1860,Hawaii,0
+931,1860,Idaho,0
+932,1860,Illinois,11
+933,1860,Indiana,13
+934,1860,Iowa,4
+935,1860,Kansas,0
+936,1860,Kentucky,12
+937,1860,Louisiana,6
+938,1860,Maine,8
+939,1860,Maryland,8
+940,1860,Massachusetts,13
+941,1860,Michigan,6
+942,1860,Minnesota,4
+943,1860,Mississippi,7
+944,1860,Missouri,9
+945,1860,Montana,0
+946,1860,Nebraska,0
+947,1860,Nevada,0
+948,1860,New Hampshire,5
+949,1860,New Jersey,7
+950,1860,New Mexico,0
+951,1860,New York,35
+952,1860,North Carolina,10
+953,1860,North Dakota,0
+954,1860,Ohio,23
+955,1860,Oklahoma,0
+956,1860,Oregon,3
+957,1860,Pennsylvania,27
+958,1860,Rhode Island,4
+959,1860,South Carolina,8
+960,1860,South Dakota,0
+961,1860,Tennessee,12
+962,1860,Texas,4
+963,1860,Utah,0
+964,1860,Vermont,5
+965,1860,Virginia,15
+966,1860,Washington,0
+967,1860,West Virginia,0
+968,1860,Wisconsin,5
+969,1860,Wyoming,0
+970,1864,Alabama,0
+971,1864,Alaska,0
+972,1864,Arizona,0
+973,1864,Arkansas,0
+974,1864,California,5
+975,1864,Colorado,0
+976,1864,Connecticut,6
+977,1864,D.C.,0
+978,1864,Delaware,3
+979,1864,Florida,0
+980,1864,Georgia,0
+981,1864,Hawaii,0
+982,1864,Idaho,0
+983,1864,Illinois,16
+984,1864,Indiana,13
+985,1864,Iowa,8
+986,1864,Kansas,3
+987,1864,Kentucky,11
+988,1864,Louisiana,0
+989,1864,Maine,7
+990,1864,Maryland,7
+991,1864,Massachusetts,12
+992,1864,Michigan,8
+993,1864,Minnesota,4
+994,1864,Mississippi,0
+995,1864,Missouri,11
+996,1864,Montana,0
+997,1864,Nebraska,0
+998,1864,Nevada,3
+999,1864,New Hampshire,5
+1000,1864,New Jersey,7
+1001,1864,New Mexico,0
+1002,1864,New York,33
+1003,1864,North Carolina,0
+1004,1864,North Dakota,0
+1005,1864,Ohio,21
+1006,1864,Oklahoma,0
+1007,1864,Oregon,3
+1008,1864,Pennsylvania,26
+1009,1864,Rhode Island,4
+1010,1864,South Carolina,0
+1011,1864,South Dakota,0
+1012,1864,Tennessee,0
+1013,1864,Texas,0
+1014,1864,Utah,0
+1015,1864,Vermont,5
+1016,1864,Virginia,0
+1017,1864,Washington,0
+1018,1864,West Virginia,5
+1019,1864,Wisconsin,8
+1020,1864,Wyoming,0
+1021,1868,Alabama,8
+1022,1868,Alaska,0
+1023,1868,Arizona,0
+1024,1868,Arkansas,5
+1025,1868,California,5
+1026,1868,Colorado,0
+1027,1868,Connecticut,6
+1028,1868,D.C.,0
+1029,1868,Delaware,3
+1030,1868,Florida,3
+1031,1868,Georgia,9
+1032,1868,Hawaii,0
+1033,1868,Idaho,0
+1034,1868,Illinois,16
+1035,1868,Indiana,13
+1036,1868,Iowa,8
+1037,1868,Kansas,3
+1038,1868,Kentucky,11
+1039,1868,Louisiana,7
+1040,1868,Maine,7
+1041,1868,Maryland,7
+1042,1868,Massachusetts,12
+1043,1868,Michigan,8
+1044,1868,Minnesota,4
+1045,1868,Mississippi,0
+1046,1868,Missouri,11
+1047,1868,Montana,0
+1048,1868,Nebraska,3
+1049,1868,Nevada,3
+1050,1868,New Hampshire,5
+1051,1868,New Jersey,7
+1052,1868,New Mexico,0
+1053,1868,New York,33
+1054,1868,North Carolina,9
+1055,1868,North Dakota,0
+1056,1868,Ohio,21
+1057,1868,Oklahoma,0
+1058,1868,Oregon,3
+1059,1868,Pennsylvania,26
+1060,1868,Rhode Island,4
+1061,1868,South Carolina,6
+1062,1868,South Dakota,0
+1063,1868,Tennessee,10
+1064,1868,Texas,0
+1065,1868,Utah,0
+1066,1868,Vermont,5
+1067,1868,Virginia,0
+1068,1868,Washington,0
+1069,1868,West Virginia,5
+1070,1868,Wisconsin,8
+1071,1868,Wyoming,0
+1072,1872,Alabama,10
+1073,1872,Alaska,0
+1074,1872,Arizona,0
+1075,1872,Arkansas,6
+1076,1872,California,6
+1077,1872,Colorado,0
+1078,1872,Connecticut,6
+1079,1872,D.C.,0
+1080,1872,Delaware,3
+1081,1872,Florida,4
+1082,1872,Georgia,11
+1083,1872,Hawaii,0
+1084,1872,Idaho,0
+1085,1872,Illinois,21
+1086,1872,Indiana,15
+1087,1872,Iowa,11
+1088,1872,Kansas,5
+1089,1872,Kentucky,12
+1090,1872,Louisiana,8
+1091,1872,Maine,7
+1092,1872,Maryland,8
+1093,1872,Massachusetts,13
+1094,1872,Michigan,11
+1095,1872,Minnesota,5
+1096,1872,Mississippi,8
+1097,1872,Missouri,15
+1098,1872,Montana,0
+1099,1872,Nebraska,3
+1100,1872,Nevada,3
+1101,1872,New Hampshire,5
+1102,1872,New Jersey,9
+1103,1872,New Mexico,0
+1104,1872,New York,35
+1105,1872,North Carolina,10
+1106,1872,North Dakota,0
+1107,1872,Ohio,22
+1108,1872,Oklahoma,0
+1109,1872,Oregon,3
+1110,1872,Pennsylvania,29
+1111,1872,Rhode Island,4
+1112,1872,South Carolina,7
+1113,1872,South Dakota,0
+1114,1872,Tennessee,12
+1115,1872,Texas,8
+1116,1872,Utah,0
+1117,1872,Vermont,5
+1118,1872,Virginia,11
+1119,1872,Washington,0
+1120,1872,West Virginia,5
+1121,1872,Wisconsin,10
+1122,1872,Wyoming,0
+1123,1876,Alabama,10
+1124,1876,Alaska,0
+1125,1876,Arizona,0
+1126,1876,Arkansas,6
+1127,1876,California,6
+1128,1876,Colorado,3
+1129,1876,Connecticut,6
+1130,1876,D.C.,0
+1131,1876,Delaware,3
+1132,1876,Florida,4
+1133,1876,Georgia,11
+1134,1876,Hawaii,0
+1135,1876,Idaho,0
+1136,1876,Illinois,21
+1137,1876,Indiana,15
+1138,1876,Iowa,11
+1139,1876,Kansas,5
+1140,1876,Kentucky,12
+1141,1876,Louisiana,8
+1142,1876,Maine,7
+1143,1876,Maryland,8
+1144,1876,Massachusetts,13
+1145,1876,Michigan,11
+1146,1876,Minnesota,5
+1147,1876,Mississippi,8
+1148,1876,Missouri,15
+1149,1876,Montana,0
+1150,1876,Nebraska,3
+1151,1876,Nevada,3
+1152,1876,New Hampshire,5
+1153,1876,New Jersey,9
+1154,1876,New Mexico,0
+1155,1876,New York,35
+1156,1876,North Carolina,10
+1157,1876,North Dakota,0
+1158,1876,Ohio,22
+1159,1876,Oklahoma,0
+1160,1876,Oregon,3
+1161,1876,Pennsylvania,29
+1162,1876,Rhode Island,4
+1163,1876,South Carolina,7
+1164,1876,South Dakota,0
+1165,1876,Tennessee,12
+1166,1876,Texas,8
+1167,1876,Utah,0
+1168,1876,Vermont,5
+1169,1876,Virginia,11
+1170,1876,Washington,0
+1171,1876,West Virginia,5
+1172,1876,Wisconsin,10
+1173,1876,Wyoming,0
+1174,1880,Alabama,10
+1175,1880,Alaska,0
+1176,1880,Arizona,0
+1177,1880,Arkansas,6
+1178,1880,California,6
+1179,1880,Colorado,3
+1180,1880,Connecticut,6
+1181,1880,D.C.,0
+1182,1880,Delaware,3
+1183,1880,Florida,4
+1184,1880,Georgia,11
+1185,1880,Hawaii,0
+1186,1880,Idaho,0
+1187,1880,Illinois,21
+1188,1880,Indiana,15
+1189,1880,Iowa,11
+1190,1880,Kansas,5
+1191,1880,Kentucky,12
+1192,1880,Louisiana,8
+1193,1880,Maine,7
+1194,1880,Maryland,8
+1195,1880,Massachusetts,13
+1196,1880,Michigan,11
+1197,1880,Minnesota,5
+1198,1880,Mississippi,8
+1199,1880,Missouri,15
+1200,1880,Montana,0
+1201,1880,Nebraska,3
+1202,1880,Nevada,3
+1203,1880,New Hampshire,5
+1204,1880,New Jersey,9
+1205,1880,New Mexico,0
+1206,1880,New York,35
+1207,1880,North Carolina,10
+1208,1880,North Dakota,0
+1209,1880,Ohio,22
+1210,1880,Oklahoma,0
+1211,1880,Oregon,3
+1212,1880,Pennsylvania,29
+1213,1880,Rhode Island,4
+1214,1880,South Carolina,7
+1215,1880,South Dakota,0
+1216,1880,Tennessee,12
+1217,1880,Texas,8
+1218,1880,Utah,0
+1219,1880,Vermont,5
+1220,1880,Virginia,11
+1221,1880,Washington,0
+1222,1880,West Virginia,5
+1223,1880,Wisconsin,10
+1224,1880,Wyoming,0
+1225,1884,Alabama,10
+1226,1884,Alaska,0
+1227,1884,Arizona,0
+1228,1884,Arkansas,7
+1229,1884,California,8
+1230,1884,Colorado,3
+1231,1884,Connecticut,6
+1232,1884,D.C.,0
+1233,1884,Delaware,3
+1234,1884,Florida,4
+1235,1884,Georgia,12
+1236,1884,Hawaii,0
+1237,1884,Idaho,0
+1238,1884,Illinois,22
+1239,1884,Indiana,15
+1240,1884,Iowa,13
+1241,1884,Kansas,9
+1242,1884,Kentucky,13
+1243,1884,Louisiana,8
+1244,1884,Maine,6
+1245,1884,Maryland,8
+1246,1884,Massachusetts,14
+1247,1884,Michigan,13
+1248,1884,Minnesota,7
+1249,1884,Mississippi,9
+1250,1884,Missouri,16
+1251,1884,Montana,0
+1252,1884,Nebraska,5
+1253,1884,Nevada,3
+1254,1884,New Hampshire,4
+1255,1884,New Jersey,9
+1256,1884,New Mexico,0
+1257,1884,New York,36
+1258,1884,North Carolina,11
+1259,1884,North Dakota,0
+1260,1884,Ohio,23
+1261,1884,Oklahoma,0
+1262,1884,Oregon,3
+1263,1884,Pennsylvania,30
+1264,1884,Rhode Island,4
+1265,1884,South Carolina,9
+1266,1884,South Dakota,0
+1267,1884,Tennessee,12
+1268,1884,Texas,13
+1269,1884,Utah,0
+1270,1884,Vermont,4
+1271,1884,Virginia,12
+1272,1884,Washington,0
+1273,1884,West Virginia,6
+1274,1884,Wisconsin,11
+1275,1884,Wyoming,0
+1276,1888,Alabama,10
+1277,1888,Alaska,0
+1278,1888,Arizona,0
+1279,1888,Arkansas,7
+1280,1888,California,8
+1281,1888,Colorado,3
+1282,1888,Connecticut,6
+1283,1888,D.C.,0
+1284,1888,Delaware,3
+1285,1888,Florida,4
+1286,1888,Georgia,12
+1287,1888,Hawaii,0
+1288,1888,Idaho,0
+1289,1888,Illinois,22
+1290,1888,Indiana,15
+1291,1888,Iowa,13
+1292,1888,Kansas,9
+1293,1888,Kentucky,13
+1294,1888,Louisiana,8
+1295,1888,Maine,6
+1296,1888,Maryland,8
+1297,1888,Massachusetts,14
+1298,1888,Michigan,13
+1299,1888,Minnesota,7
+1300,1888,Mississippi,9
+1301,1888,Missouri,16
+1302,1888,Montana,0
+1303,1888,Nebraska,5
+1304,1888,Nevada,3
+1305,1888,New Hampshire,4
+1306,1888,New Jersey,9
+1307,1888,New Mexico,0
+1308,1888,New York,36
+1309,1888,North Carolina,11
+1310,1888,North Dakota,0
+1311,1888,Ohio,23
+1312,1888,Oklahoma,0
+1313,1888,Oregon,3
+1314,1888,Pennsylvania,30
+1315,1888,Rhode Island,4
+1316,1888,South Carolina,9
+1317,1888,South Dakota,0
+1318,1888,Tennessee,12
+1319,1888,Texas,13
+1320,1888,Utah,0
+1321,1888,Vermont,4
+1322,1888,Virginia,12
+1323,1888,Washington,0
+1324,1888,West Virginia,6
+1325,1888,Wisconsin,11
+1326,1888,Wyoming,0
+1327,1892,Alabama,11
+1328,1892,Alaska,0
+1329,1892,Arizona,0
+1330,1892,Arkansas,8
+1331,1892,California,9
+1332,1892,Colorado,4
+1333,1892,Connecticut,6
+1334,1892,D.C.,0
+1335,1892,Delaware,3
+1336,1892,Florida,4
+1337,1892,Georgia,13
+1338,1892,Hawaii,0
+1339,1892,Idaho,3
+1340,1892,Illinois,24
+1341,1892,Indiana,15
+1342,1892,Iowa,13
+1343,1892,Kansas,10
+1344,1892,Kentucky,13
+1345,1892,Louisiana,8
+1346,1892,Maine,6
+1347,1892,Maryland,8
+1348,1892,Massachusetts,15
+1349,1892,Michigan,14
+1350,1892,Minnesota,9
+1351,1892,Mississippi,9
+1352,1892,Missouri,17
+1353,1892,Montana,3
+1354,1892,Nebraska,8
+1355,1892,Nevada,3
+1356,1892,New Hampshire,4
+1357,1892,New Jersey,10
+1358,1892,New Mexico,0
+1359,1892,New York,36
+1360,1892,North Carolina,11
+1361,1892,North Dakota,3
+1362,1892,Ohio,23
+1363,1892,Oklahoma,0
+1364,1892,Oregon,4
+1365,1892,Pennsylvania,32
+1366,1892,Rhode Island,4
+1367,1892,South Carolina,9
+1368,1892,South Dakota,4
+1369,1892,Tennessee,12
+1370,1892,Texas,15
+1371,1892,Utah,0
+1372,1892,Vermont,4
+1373,1892,Virginia,12
+1374,1892,Washington,4
+1375,1892,West Virginia,6
+1376,1892,Wisconsin,12
+1377,1892,Wyoming,3
+1378,1896,Alabama,11
+1379,1896,Alaska,0
+1380,1896,Arizona,0
+1381,1896,Arkansas,8
+1382,1896,California,9
+1383,1896,Colorado,4
+1384,1896,Connecticut,6
+1385,1896,D.C.,0
+1386,1896,Delaware,3
+1387,1896,Florida,4
+1388,1896,Georgia,13
+1389,1896,Hawaii,0
+1390,1896,Idaho,3
+1391,1896,Illinois,24
+1392,1896,Indiana,15
+1393,1896,Iowa,13
+1394,1896,Kansas,10
+1395,1896,Kentucky,13
+1396,1896,Louisiana,8
+1397,1896,Maine,6
+1398,1896,Maryland,8
+1399,1896,Massachusetts,15
+1400,1896,Michigan,14
+1401,1896,Minnesota,9
+1402,1896,Mississippi,9
+1403,1896,Missouri,17
+1404,1896,Montana,3
+1405,1896,Nebraska,8
+1406,1896,Nevada,3
+1407,1896,New Hampshire,4
+1408,1896,New Jersey,10
+1409,1896,New Mexico,0
+1410,1896,New York,36
+1411,1896,North Carolina,11
+1412,1896,North Dakota,3
+1413,1896,Ohio,23
+1414,1896,Oklahoma,0
+1415,1896,Oregon,4
+1416,1896,Pennsylvania,32
+1417,1896,Rhode Island,4
+1418,1896,South Carolina,9
+1419,1896,South Dakota,4
+1420,1896,Tennessee,12
+1421,1896,Texas,15
+1422,1896,Utah,3
+1423,1896,Vermont,4
+1424,1896,Virginia,12
+1425,1896,Washington,4
+1426,1896,West Virginia,6
+1427,1896,Wisconsin,12
+1428,1896,Wyoming,3
+1429,1900,Alabama,11
+1430,1900,Alaska,0
+1431,1900,Arizona,0
+1432,1900,Arkansas,8
+1433,1900,California,9
+1434,1900,Colorado,4
+1435,1900,Connecticut,6
+1436,1900,D.C.,0
+1437,1900,Delaware,3
+1438,1900,Florida,4
+1439,1900,Georgia,13
+1440,1900,Hawaii,0
+1441,1900,Idaho,3
+1442,1900,Illinois,24
+1443,1900,Indiana,15
+1444,1900,Iowa,13
+1445,1900,Kansas,10
+1446,1900,Kentucky,13
+1447,1900,Louisiana,8
+1448,1900,Maine,6
+1449,1900,Maryland,8
+1450,1900,Massachusetts,15
+1451,1900,Michigan,14
+1452,1900,Minnesota,9
+1453,1900,Mississippi,9
+1454,1900,Missouri,17
+1455,1900,Montana,3
+1456,1900,Nebraska,8
+1457,1900,Nevada,3
+1458,1900,New Hampshire,4
+1459,1900,New Jersey,10
+1460,1900,New Mexico,0
+1461,1900,New York,36
+1462,1900,North Carolina,11
+1463,1900,North Dakota,3
+1464,1900,Ohio,23
+1465,1900,Oklahoma,0
+1466,1900,Oregon,4
+1467,1900,Pennsylvania,32
+1468,1900,Rhode Island,4
+1469,1900,South Carolina,9
+1470,1900,South Dakota,4
+1471,1900,Tennessee,12
+1472,1900,Texas,15
+1473,1900,Utah,3
+1474,1900,Vermont,4
+1475,1900,Virginia,12
+1476,1900,Washington,4
+1477,1900,West Virginia,6
+1478,1900,Wisconsin,12
+1479,1900,Wyoming,3
+1480,1904,Alabama,11
+1481,1904,Alaska,0
+1482,1904,Arizona,0
+1483,1904,Arkansas,9
+1484,1904,California,10
+1485,1904,Colorado,5
+1486,1904,Connecticut,7
+1487,1904,D.C.,0
+1488,1904,Delaware,3
+1489,1904,Florida,5
+1490,1904,Georgia,13
+1491,1904,Hawaii,0
+1492,1904,Idaho,3
+1493,1904,Illinois,27
+1494,1904,Indiana,15
+1495,1904,Iowa,13
+1496,1904,Kansas,10
+1497,1904,Kentucky,13
+1498,1904,Louisiana,9
+1499,1904,Maine,6
+1500,1904,Maryland,8
+1501,1904,Massachusetts,16
+1502,1904,Michigan,14
+1503,1904,Minnesota,11
+1504,1904,Mississippi,10
+1505,1904,Missouri,18
+1506,1904,Montana,3
+1507,1904,Nebraska,8
+1508,1904,Nevada,3
+1509,1904,New Hampshire,4
+1510,1904,New Jersey,12
+1511,1904,New Mexico,0
+1512,1904,New York,39
+1513,1904,North Carolina,12
+1514,1904,North Dakota,4
+1515,1904,Ohio,23
+1516,1904,Oklahoma,0
+1517,1904,Oregon,4
+1518,1904,Pennsylvania,34
+1519,1904,Rhode Island,4
+1520,1904,South Carolina,9
+1521,1904,South Dakota,4
+1522,1904,Tennessee,12
+1523,1904,Texas,18
+1524,1904,Utah,3
+1525,1904,Vermont,4
+1526,1904,Virginia,12
+1527,1904,Washington,5
+1528,1904,West Virginia,7
+1529,1904,Wisconsin,13
+1530,1904,Wyoming,3
+1531,1908,Alabama,11
+1532,1908,Alaska,0
+1533,1908,Arizona,0
+1534,1908,Arkansas,9
+1535,1908,California,10
+1536,1908,Colorado,5
+1537,1908,Connecticut,7
+1538,1908,D.C.,0
+1539,1908,Delaware,3
+1540,1908,Florida,5
+1541,1908,Georgia,13
+1542,1908,Hawaii,0
+1543,1908,Idaho,3
+1544,1908,Illinois,27
+1545,1908,Indiana,15
+1546,1908,Iowa,13
+1547,1908,Kansas,10
+1548,1908,Kentucky,13
+1549,1908,Louisiana,9
+1550,1908,Maine,6
+1551,1908,Maryland,8
+1552,1908,Massachusetts,16
+1553,1908,Michigan,14
+1554,1908,Minnesota,11
+1555,1908,Mississippi,10
+1556,1908,Missouri,18
+1557,1908,Montana,3
+1558,1908,Nebraska,8
+1559,1908,Nevada,3
+1560,1908,New Hampshire,4
+1561,1908,New Jersey,12
+1562,1908,New Mexico,0
+1563,1908,New York,39
+1564,1908,North Carolina,12
+1565,1908,North Dakota,4
+1566,1908,Ohio,23
+1567,1908,Oklahoma,7
+1568,1908,Oregon,4
+1569,1908,Pennsylvania,34
+1570,1908,Rhode Island,4
+1571,1908,South Carolina,9
+1572,1908,South Dakota,4
+1573,1908,Tennessee,12
+1574,1908,Texas,18
+1575,1908,Utah,3
+1576,1908,Vermont,4
+1577,1908,Virginia,12
+1578,1908,Washington,5
+1579,1908,West Virginia,7
+1580,1908,Wisconsin,13
+1581,1908,Wyoming,3
+1582,1912,Alabama,12
+1583,1912,Alaska,0
+1584,1912,Arizona,3
+1585,1912,Arkansas,9
+1586,1912,California,13
+1587,1912,Colorado,6
+1588,1912,Connecticut,7
+1589,1912,D.C.,0
+1590,1912,Delaware,3
+1591,1912,Florida,6
+1592,1912,Georgia,14
+1593,1912,Hawaii,0
+1594,1912,Idaho,4
+1595,1912,Illinois,29
+1596,1912,Indiana,15
+1597,1912,Iowa,13
+1598,1912,Kansas,10
+1599,1912,Kentucky,13
+1600,1912,Louisiana,10
+1601,1912,Maine,6
+1602,1912,Maryland,8
+1603,1912,Massachusetts,18
+1604,1912,Michigan,15
+1605,1912,Minnesota,12
+1606,1912,Mississippi,10
+1607,1912,Missouri,18
+1608,1912,Montana,4
+1609,1912,Nebraska,8
+1610,1912,Nevada,3
+1611,1912,New Hampshire,4
+1612,1912,New Jersey,14
+1613,1912,New Mexico,3
+1614,1912,New York,45
+1615,1912,North Carolina,12
+1616,1912,North Dakota,5
+1617,1912,Ohio,24
+1618,1912,Oklahoma,10
+1619,1912,Oregon,5
+1620,1912,Pennsylvania,38
+1621,1912,Rhode Island,5
+1622,1912,South Carolina,9
+1623,1912,South Dakota,5
+1624,1912,Tennessee,12
+1625,1912,Texas,20
+1626,1912,Utah,4
+1627,1912,Vermont,4
+1628,1912,Virginia,12
+1629,1912,Washington,7
+1630,1912,West Virginia,8
+1631,1912,Wisconsin,13
+1632,1912,Wyoming,3
+1633,1916,Alabama,12
+1634,1916,Alaska,0
+1635,1916,Arizona,3
+1636,1916,Arkansas,9
+1637,1916,California,13
+1638,1916,Colorado,6
+1639,1916,Connecticut,7
+1640,1916,D.C.,0
+1641,1916,Delaware,3
+1642,1916,Florida,6
+1643,1916,Georgia,14
+1644,1916,Hawaii,0
+1645,1916,Idaho,4
+1646,1916,Illinois,29
+1647,1916,Indiana,15
+1648,1916,Iowa,13
+1649,1916,Kansas,10
+1650,1916,Kentucky,13
+1651,1916,Louisiana,10
+1652,1916,Maine,6
+1653,1916,Maryland,8
+1654,1916,Massachusetts,18
+1655,1916,Michigan,15
+1656,1916,Minnesota,12
+1657,1916,Mississippi,10
+1658,1916,Missouri,18
+1659,1916,Montana,4
+1660,1916,Nebraska,8
+1661,1916,Nevada,3
+1662,1916,New Hampshire,4
+1663,1916,New Jersey,14
+1664,1916,New Mexico,3
+1665,1916,New York,45
+1666,1916,North Carolina,12
+1667,1916,North Dakota,5
+1668,1916,Ohio,24
+1669,1916,Oklahoma,10
+1670,1916,Oregon,5
+1671,1916,Pennsylvania,38
+1672,1916,Rhode Island,5
+1673,1916,South Carolina,9
+1674,1916,South Dakota,5
+1675,1916,Tennessee,12
+1676,1916,Texas,20
+1677,1916,Utah,4
+1678,1916,Vermont,4
+1679,1916,Virginia,12
+1680,1916,Washington,7
+1681,1916,West Virginia,8
+1682,1916,Wisconsin,13
+1683,1916,Wyoming,3
+1684,1920,Alabama,12
+1685,1920,Alaska,0
+1686,1920,Arizona,3
+1687,1920,Arkansas,9
+1688,1920,California,13
+1689,1920,Colorado,6
+1690,1920,Connecticut,7
+1691,1920,D.C.,0
+1692,1920,Delaware,3
+1693,1920,Florida,6
+1694,1920,Georgia,14
+1695,1920,Hawaii,0
+1696,1920,Idaho,4
+1697,1920,Illinois,29
+1698,1920,Indiana,15
+1699,1920,Iowa,13
+1700,1920,Kansas,10
+1701,1920,Kentucky,13
+1702,1920,Louisiana,10
+1703,1920,Maine,6
+1704,1920,Maryland,8
+1705,1920,Massachusetts,18
+1706,1920,Michigan,15
+1707,1920,Minnesota,12
+1708,1920,Mississippi,10
+1709,1920,Missouri,18
+1710,1920,Montana,4
+1711,1920,Nebraska,8
+1712,1920,Nevada,3
+1713,1920,New Hampshire,4
+1714,1920,New Jersey,14
+1715,1920,New Mexico,3
+1716,1920,New York,45
+1717,1920,North Carolina,12
+1718,1920,North Dakota,5
+1719,1920,Ohio,24
+1720,1920,Oklahoma,10
+1721,1920,Oregon,5
+1722,1920,Pennsylvania,38
+1723,1920,Rhode Island,5
+1724,1920,South Carolina,9
+1725,1920,South Dakota,5
+1726,1920,Tennessee,12
+1727,1920,Texas,20
+1728,1920,Utah,4
+1729,1920,Vermont,4
+1730,1920,Virginia,12
+1731,1920,Washington,7
+1732,1920,West Virginia,8
+1733,1920,Wisconsin,13
+1734,1920,Wyoming,3
+1735,1924,Alabama,12
+1736,1924,Alaska,0
+1737,1924,Arizona,3
+1738,1924,Arkansas,9
+1739,1924,California,13
+1740,1924,Colorado,6
+1741,1924,Connecticut,7
+1742,1924,D.C.,0
+1743,1924,Delaware,3
+1744,1924,Florida,6
+1745,1924,Georgia,14
+1746,1924,Hawaii,0
+1747,1924,Idaho,4
+1748,1924,Illinois,29
+1749,1924,Indiana,15
+1750,1924,Iowa,13
+1751,1924,Kansas,10
+1752,1924,Kentucky,13
+1753,1924,Louisiana,10
+1754,1924,Maine,6
+1755,1924,Maryland,8
+1756,1924,Massachusetts,18
+1757,1924,Michigan,15
+1758,1924,Minnesota,12
+1759,1924,Mississippi,10
+1760,1924,Missouri,18
+1761,1924,Montana,4
+1762,1924,Nebraska,8
+1763,1924,Nevada,3
+1764,1924,New Hampshire,4
+1765,1924,New Jersey,14
+1766,1924,New Mexico,3
+1767,1924,New York,45
+1768,1924,North Carolina,12
+1769,1924,North Dakota,5
+1770,1924,Ohio,24
+1771,1924,Oklahoma,10
+1772,1924,Oregon,5
+1773,1924,Pennsylvania,38
+1774,1924,Rhode Island,5
+1775,1924,South Carolina,9
+1776,1924,South Dakota,5
+1777,1924,Tennessee,12
+1778,1924,Texas,20
+1779,1924,Utah,4
+1780,1924,Vermont,4
+1781,1924,Virginia,12
+1782,1924,Washington,7
+1783,1924,West Virginia,8
+1784,1924,Wisconsin,13
+1785,1924,Wyoming,3
+1786,1928,Alabama,12
+1787,1928,Alaska,0
+1788,1928,Arizona,3
+1789,1928,Arkansas,9
+1790,1928,California,13
+1791,1928,Colorado,6
+1792,1928,Connecticut,7
+1793,1928,D.C.,0
+1794,1928,Delaware,3
+1795,1928,Florida,6
+1796,1928,Georgia,14
+1797,1928,Hawaii,0
+1798,1928,Idaho,4
+1799,1928,Illinois,29
+1800,1928,Indiana,15
+1801,1928,Iowa,13
+1802,1928,Kansas,10
+1803,1928,Kentucky,13
+1804,1928,Louisiana,10
+1805,1928,Maine,6
+1806,1928,Maryland,8
+1807,1928,Massachusetts,18
+1808,1928,Michigan,15
+1809,1928,Minnesota,12
+1810,1928,Mississippi,10
+1811,1928,Missouri,18
+1812,1928,Montana,4
+1813,1928,Nebraska,8
+1814,1928,Nevada,3
+1815,1928,New Hampshire,4
+1816,1928,New Jersey,14
+1817,1928,New Mexico,3
+1818,1928,New York,45
+1819,1928,North Carolina,12
+1820,1928,North Dakota,5
+1821,1928,Ohio,24
+1822,1928,Oklahoma,10
+1823,1928,Oregon,5
+1824,1928,Pennsylvania,38
+1825,1928,Rhode Island,5
+1826,1928,South Carolina,9
+1827,1928,South Dakota,5
+1828,1928,Tennessee,12
+1829,1928,Texas,20
+1830,1928,Utah,4
+1831,1928,Vermont,4
+1832,1928,Virginia,12
+1833,1928,Washington,7
+1834,1928,West Virginia,8
+1835,1928,Wisconsin,13
+1836,1928,Wyoming,3
+1837,1932,Alabama,11
+1838,1932,Alaska,0
+1839,1932,Arizona,3
+1840,1932,Arkansas,9
+1841,1932,California,22
+1842,1932,Colorado,6
+1843,1932,Connecticut,8
+1844,1932,D.C.,0
+1845,1932,Delaware,3
+1846,1932,Florida,7
+1847,1932,Georgia,12
+1848,1932,Hawaii,0
+1849,1932,Idaho,4
+1850,1932,Illinois,29
+1851,1932,Indiana,14
+1852,1932,Iowa,11
+1853,1932,Kansas,9
+1854,1932,Kentucky,11
+1855,1932,Louisiana,10
+1856,1932,Maine,5
+1857,1932,Maryland,8
+1858,1932,Massachusetts,17
+1859,1932,Michigan,19
+1860,1932,Minnesota,11
+1861,1932,Mississippi,9
+1862,1932,Missouri,15
+1863,1932,Montana,4
+1864,1932,Nebraska,7
+1865,1932,Nevada,3
+1866,1932,New Hampshire,4
+1867,1932,New Jersey,16
+1868,1932,New Mexico,3
+1869,1932,New York,47
+1870,1932,North Carolina,13
+1871,1932,North Dakota,4
+1872,1932,Ohio,26
+1873,1932,Oklahoma,11
+1874,1932,Oregon,5
+1875,1932,Pennsylvania,36
+1876,1932,Rhode Island,4
+1877,1932,South Carolina,8
+1878,1932,South Dakota,4
+1879,1932,Tennessee,11
+1880,1932,Texas,23
+1881,1932,Utah,4
+1882,1932,Vermont,3
+1883,1932,Virginia,11
+1884,1932,Washington,8
+1885,1932,West Virginia,8
+1886,1932,Wisconsin,12
+1887,1932,Wyoming,3
+1888,1936,Alabama,11
+1889,1936,Alaska,0
+1890,1936,Arizona,3
+1891,1936,Arkansas,9
+1892,1936,California,22
+1893,1936,Colorado,6
+1894,1936,Connecticut,8
+1895,1936,D.C.,0
+1896,1936,Delaware,3
+1897,1936,Florida,7
+1898,1936,Georgia,12
+1899,1936,Hawaii,0
+1900,1936,Idaho,4
+1901,1936,Illinois,29
+1902,1936,Indiana,14
+1903,1936,Iowa,11
+1904,1936,Kansas,9
+1905,1936,Kentucky,11
+1906,1936,Louisiana,10
+1907,1936,Maine,5
+1908,1936,Maryland,8
+1909,1936,Massachusetts,17
+1910,1936,Michigan,19
+1911,1936,Minnesota,11
+1912,1936,Mississippi,9
+1913,1936,Missouri,15
+1914,1936,Montana,4
+1915,1936,Nebraska,7
+1916,1936,Nevada,3
+1917,1936,New Hampshire,4
+1918,1936,New Jersey,16
+1919,1936,New Mexico,3
+1920,1936,New York,47
+1921,1936,North Carolina,13
+1922,1936,North Dakota,4
+1923,1936,Ohio,26
+1924,1936,Oklahoma,11
+1925,1936,Oregon,5
+1926,1936,Pennsylvania,36
+1927,1936,Rhode Island,4
+1928,1936,South Carolina,8
+1929,1936,South Dakota,4
+1930,1936,Tennessee,11
+1931,1936,Texas,23
+1932,1936,Utah,4
+1933,1936,Vermont,3
+1934,1936,Virginia,11
+1935,1936,Washington,8
+1936,1936,West Virginia,8
+1937,1936,Wisconsin,12
+1938,1936,Wyoming,3
+1939,1940,Alabama,11
+1940,1940,Alaska,0
+1941,1940,Arizona,3
+1942,1940,Arkansas,9
+1943,1940,California,22
+1944,1940,Colorado,6
+1945,1940,Connecticut,8
+1946,1940,D.C.,0
+1947,1940,Delaware,3
+1948,1940,Florida,7
+1949,1940,Georgia,12
+1950,1940,Hawaii,0
+1951,1940,Idaho,4
+1952,1940,Illinois,29
+1953,1940,Indiana,14
+1954,1940,Iowa,11
+1955,1940,Kansas,9
+1956,1940,Kentucky,11
+1957,1940,Louisiana,10
+1958,1940,Maine,5
+1959,1940,Maryland,8
+1960,1940,Massachusetts,17
+1961,1940,Michigan,19
+1962,1940,Minnesota,11
+1963,1940,Mississippi,9
+1964,1940,Missouri,15
+1965,1940,Montana,4
+1966,1940,Nebraska,7
+1967,1940,Nevada,3
+1968,1940,New Hampshire,4
+1969,1940,New Jersey,16
+1970,1940,New Mexico,3
+1971,1940,New York,47
+1972,1940,North Carolina,13
+1973,1940,North Dakota,4
+1974,1940,Ohio,26
+1975,1940,Oklahoma,11
+1976,1940,Oregon,5
+1977,1940,Pennsylvania,36
+1978,1940,Rhode Island,4
+1979,1940,South Carolina,8
+1980,1940,South Dakota,4
+1981,1940,Tennessee,11
+1982,1940,Texas,23
+1983,1940,Utah,4
+1984,1940,Vermont,3
+1985,1940,Virginia,11
+1986,1940,Washington,8
+1987,1940,West Virginia,8
+1988,1940,Wisconsin,12
+1989,1940,Wyoming,3
+1990,1944,Alabama,11
+1991,1944,Alaska,0
+1992,1944,Arizona,4
+1993,1944,Arkansas,9
+1994,1944,California,25
+1995,1944,Colorado,6
+1996,1944,Connecticut,8
+1997,1944,D.C.,0
+1998,1944,Delaware,3
+1999,1944,Florida,8
+2000,1944,Georgia,12
+2001,1944,Hawaii,0
+2002,1944,Idaho,4
+2003,1944,Illinois,28
+2004,1944,Indiana,13
+2005,1944,Iowa,10
+2006,1944,Kansas,8
+2007,1944,Kentucky,11
+2008,1944,Louisiana,10
+2009,1944,Maine,5
+2010,1944,Maryland,8
+2011,1944,Massachusetts,16
+2012,1944,Michigan,19
+2013,1944,Minnesota,11
+2014,1944,Mississippi,9
+2015,1944,Missouri,15
+2016,1944,Montana,4
+2017,1944,Nebraska,6
+2018,1944,Nevada,3
+2019,1944,New Hampshire,4
+2020,1944,New Jersey,16
+2021,1944,New Mexico,4
+2022,1944,New York,47
+2023,1944,North Carolina,14
+2024,1944,North Dakota,4
+2025,1944,Ohio,25
+2026,1944,Oklahoma,10
+2027,1944,Oregon,6
+2028,1944,Pennsylvania,35
+2029,1944,Rhode Island,4
+2030,1944,South Carolina,8
+2031,1944,South Dakota,4
+2032,1944,Tennessee,12
+2033,1944,Texas,23
+2034,1944,Utah,4
+2035,1944,Vermont,3
+2036,1944,Virginia,11
+2037,1944,Washington,8
+2038,1944,West Virginia,8
+2039,1944,Wisconsin,12
+2040,1944,Wyoming,3
+2041,1948,Alabama,11
+2042,1948,Alaska,0
+2043,1948,Arizona,4
+2044,1948,Arkansas,9
+2045,1948,California,25
+2046,1948,Colorado,6
+2047,1948,Connecticut,8
+2048,1948,D.C.,0
+2049,1948,Delaware,3
+2050,1948,Florida,8
+2051,1948,Georgia,12
+2052,1948,Hawaii,0
+2053,1948,Idaho,4
+2054,1948,Illinois,28
+2055,1948,Indiana,13
+2056,1948,Iowa,10
+2057,1948,Kansas,8
+2058,1948,Kentucky,11
+2059,1948,Louisiana,10
+2060,1948,Maine,5
+2061,1948,Maryland,8
+2062,1948,Massachusetts,16
+2063,1948,Michigan,19
+2064,1948,Minnesota,11
+2065,1948,Mississippi,9
+2066,1948,Missouri,15
+2067,1948,Montana,4
+2068,1948,Nebraska,6
+2069,1948,Nevada,3
+2070,1948,New Hampshire,4
+2071,1948,New Jersey,16
+2072,1948,New Mexico,4
+2073,1948,New York,47
+2074,1948,North Carolina,14
+2075,1948,North Dakota,4
+2076,1948,Ohio,25
+2077,1948,Oklahoma,10
+2078,1948,Oregon,6
+2079,1948,Pennsylvania,35
+2080,1948,Rhode Island,4
+2081,1948,South Carolina,8
+2082,1948,South Dakota,4
+2083,1948,Tennessee,12
+2084,1948,Texas,23
+2085,1948,Utah,4
+2086,1948,Vermont,3
+2087,1948,Virginia,11
+2088,1948,Washington,8
+2089,1948,West Virginia,8
+2090,1948,Wisconsin,12
+2091,1948,Wyoming,3
+2092,1952,Alabama,11
+2093,1952,Alaska,0
+2094,1952,Arizona,4
+2095,1952,Arkansas,8
+2096,1952,California,32
+2097,1952,Colorado,6
+2098,1952,Connecticut,8
+2099,1952,D.C.,0
+2100,1952,Delaware,3
+2101,1952,Florida,10
+2102,1952,Georgia,12
+2103,1952,Hawaii,0
+2104,1952,Idaho,4
+2105,1952,Illinois,27
+2106,1952,Indiana,13
+2107,1952,Iowa,10
+2108,1952,Kansas,8
+2109,1952,Kentucky,10
+2110,1952,Louisiana,10
+2111,1952,Maine,5
+2112,1952,Maryland,9
+2113,1952,Massachusetts,16
+2114,1952,Michigan,20
+2115,1952,Minnesota,11
+2116,1952,Mississippi,8
+2117,1952,Missouri,13
+2118,1952,Montana,4
+2119,1952,Nebraska,6
+2120,1952,Nevada,3
+2121,1952,New Hampshire,4
+2122,1952,New Jersey,16
+2123,1952,New Mexico,4
+2124,1952,New York,45
+2125,1952,North Carolina,14
+2126,1952,North Dakota,4
+2127,1952,Ohio,25
+2128,1952,Oklahoma,8
+2129,1952,Oregon,6
+2130,1952,Pennsylvania,32
+2131,1952,Rhode Island,4
+2132,1952,South Carolina,8
+2133,1952,South Dakota,4
+2134,1952,Tennessee,11
+2135,1952,Texas,24
+2136,1952,Utah,4
+2137,1952,Vermont,3
+2138,1952,Virginia,12
+2139,1952,Washington,9
+2140,1952,West Virginia,8
+2141,1952,Wisconsin,12
+2142,1952,Wyoming,3
+2143,1956,Alabama,11
+2144,1956,Alaska,0
+2145,1956,Arizona,4
+2146,1956,Arkansas,8
+2147,1956,California,32
+2148,1956,Colorado,6
+2149,1956,Connecticut,8
+2150,1956,D.C.,0
+2151,1956,Delaware,3
+2152,1956,Florida,10
+2153,1956,Georgia,12
+2154,1956,Hawaii,0
+2155,1956,Idaho,4
+2156,1956,Illinois,27
+2157,1956,Indiana,13
+2158,1956,Iowa,10
+2159,1956,Kansas,8
+2160,1956,Kentucky,10
+2161,1956,Louisiana,10
+2162,1956,Maine,5
+2163,1956,Maryland,9
+2164,1956,Massachusetts,16
+2165,1956,Michigan,20
+2166,1956,Minnesota,11
+2167,1956,Mississippi,8
+2168,1956,Missouri,13
+2169,1956,Montana,4
+2170,1956,Nebraska,6
+2171,1956,Nevada,3
+2172,1956,New Hampshire,4
+2173,1956,New Jersey,16
+2174,1956,New Mexico,4
+2175,1956,New York,45
+2176,1956,North Carolina,14
+2177,1956,North Dakota,4
+2178,1956,Ohio,25
+2179,1956,Oklahoma,8
+2180,1956,Oregon,6
+2181,1956,Pennsylvania,32
+2182,1956,Rhode Island,4
+2183,1956,South Carolina,8
+2184,1956,South Dakota,4
+2185,1956,Tennessee,11
+2186,1956,Texas,24
+2187,1956,Utah,4
+2188,1956,Vermont,3
+2189,1956,Virginia,12
+2190,1956,Washington,9
+2191,1956,West Virginia,8
+2192,1956,Wisconsin,12
+2193,1956,Wyoming,3
+2194,1960,Alabama,11
+2195,1960,Alaska,3
+2196,1960,Arizona,4
+2197,1960,Arkansas,8
+2198,1960,California,32
+2199,1960,Colorado,6
+2200,1960,Connecticut,8
+2201,1960,D.C.,0
+2202,1960,Delaware,3
+2203,1960,Florida,10
+2204,1960,Georgia,12
+2205,1960,Hawaii,3
+2206,1960,Idaho,4
+2207,1960,Illinois,27
+2208,1960,Indiana,13
+2209,1960,Iowa,10
+2210,1960,Kansas,8
+2211,1960,Kentucky,10
+2212,1960,Louisiana,10
+2213,1960,Maine,5
+2214,1960,Maryland,9
+2215,1960,Massachusetts,16
+2216,1960,Michigan,20
+2217,1960,Minnesota,11
+2218,1960,Mississippi,8
+2219,1960,Missouri,13
+2220,1960,Montana,4
+2221,1960,Nebraska,6
+2222,1960,Nevada,3
+2223,1960,New Hampshire,4
+2224,1960,New Jersey,16
+2225,1960,New Mexico,4
+2226,1960,New York,45
+2227,1960,North Carolina,14
+2228,1960,North Dakota,4
+2229,1960,Ohio,25
+2230,1960,Oklahoma,8
+2231,1960,Oregon,6
+2232,1960,Pennsylvania,32
+2233,1960,Rhode Island,4
+2234,1960,South Carolina,8
+2235,1960,South Dakota,4
+2236,1960,Tennessee,11
+2237,1960,Texas,24
+2238,1960,Utah,4
+2239,1960,Vermont,3
+2240,1960,Virginia,12
+2241,1960,Washington,9
+2242,1960,West Virginia,8
+2243,1960,Wisconsin,12
+2244,1960,Wyoming,3
+2245,1964,Alabama,10
+2246,1964,Alaska,3
+2247,1964,Arizona,5
+2248,1964,Arkansas,6
+2249,1964,California,40
+2250,1964,Colorado,6
+2251,1964,Connecticut,8
+2252,1964,D.C.,3
+2253,1964,Delaware,3
+2254,1964,Florida,14
+2255,1964,Georgia,12
+2256,1964,Hawaii,4
+2257,1964,Idaho,4
+2258,1964,Illinois,26
+2259,1964,Indiana,13
+2260,1964,Iowa,9
+2261,1964,Kansas,7
+2262,1964,Kentucky,9
+2263,1964,Louisiana,10
+2264,1964,Maine,4
+2265,1964,Maryland,10
+2266,1964,Massachusetts,14
+2267,1964,Michigan,21
+2268,1964,Minnesota,10
+2269,1964,Mississippi,7
+2270,1964,Missouri,12
+2271,1964,Montana,4
+2272,1964,Nebraska,5
+2273,1964,Nevada,3
+2274,1964,New Hampshire,4
+2275,1964,New Jersey,17
+2276,1964,New Mexico,4
+2277,1964,New York,43
+2278,1964,North Carolina,13
+2279,1964,North Dakota,4
+2280,1964,Ohio,26
+2281,1964,Oklahoma,8
+2282,1964,Oregon,6
+2283,1964,Pennsylvania,29
+2284,1964,Rhode Island,4
+2285,1964,South Carolina,8
+2286,1964,South Dakota,4
+2287,1964,Tennessee,11
+2288,1964,Texas,25
+2289,1964,Utah,4
+2290,1964,Vermont,3
+2291,1964,Virginia,12
+2292,1964,Washington,9
+2293,1964,West Virginia,7
+2294,1964,Wisconsin,12
+2295,1964,Wyoming,3
+2296,1968,Alabama,10
+2297,1968,Alaska,3
+2298,1968,Arizona,5
+2299,1968,Arkansas,6
+2300,1968,California,40
+2301,1968,Colorado,6
+2302,1968,Connecticut,8
+2303,1968,D.C.,3
+2304,1968,Delaware,3
+2305,1968,Florida,14
+2306,1968,Georgia,12
+2307,1968,Hawaii,4
+2308,1968,Idaho,4
+2309,1968,Illinois,26
+2310,1968,Indiana,13
+2311,1968,Iowa,9
+2312,1968,Kansas,7
+2313,1968,Kentucky,9
+2314,1968,Louisiana,10
+2315,1968,Maine,4
+2316,1968,Maryland,10
+2317,1968,Massachusetts,14
+2318,1968,Michigan,21
+2319,1968,Minnesota,10
+2320,1968,Mississippi,7
+2321,1968,Missouri,12
+2322,1968,Montana,4
+2323,1968,Nebraska,5
+2324,1968,Nevada,3
+2325,1968,New Hampshire,4
+2326,1968,New Jersey,17
+2327,1968,New Mexico,4
+2328,1968,New York,43
+2329,1968,North Carolina,13
+2330,1968,North Dakota,4
+2331,1968,Ohio,26
+2332,1968,Oklahoma,8
+2333,1968,Oregon,6
+2334,1968,Pennsylvania,29
+2335,1968,Rhode Island,4
+2336,1968,South Carolina,8
+2337,1968,South Dakota,4
+2338,1968,Tennessee,11
+2339,1968,Texas,25
+2340,1968,Utah,4
+2341,1968,Vermont,3
+2342,1968,Virginia,12
+2343,1968,Washington,9
+2344,1968,West Virginia,7
+2345,1968,Wisconsin,12
+2346,1968,Wyoming,3
+2347,1972,Alabama,9
+2348,1972,Alaska,3
+2349,1972,Arizona,6
+2350,1972,Arkansas,6
+2351,1972,California,45
+2352,1972,Colorado,7
+2353,1972,Connecticut,8
+2354,1972,D.C.,3
+2355,1972,Delaware,3
+2356,1972,Florida,17
+2357,1972,Georgia,12
+2358,1972,Hawaii,4
+2359,1972,Idaho,4
+2360,1972,Illinois,26
+2361,1972,Indiana,13
+2362,1972,Iowa,8
+2363,1972,Kansas,7
+2364,1972,Kentucky,9
+2365,1972,Louisiana,10
+2366,1972,Maine,4
+2367,1972,Maryland,10
+2368,1972,Massachusetts,14
+2369,1972,Michigan,21
+2370,1972,Minnesota,10
+2371,1972,Mississippi,7
+2372,1972,Missouri,12
+2373,1972,Montana,4
+2374,1972,Nebraska,5
+2375,1972,Nevada,3
+2376,1972,New Hampshire,4
+2377,1972,New Jersey,17
+2378,1972,New Mexico,4
+2379,1972,New York,41
+2380,1972,North Carolina,13
+2381,1972,North Dakota,3
+2382,1972,Ohio,25
+2383,1972,Oklahoma,8
+2384,1972,Oregon,6
+2385,1972,Pennsylvania,27
+2386,1972,Rhode Island,4
+2387,1972,South Carolina,8
+2388,1972,South Dakota,4
+2389,1972,Tennessee,10
+2390,1972,Texas,26
+2391,1972,Utah,4
+2392,1972,Vermont,3
+2393,1972,Virginia,12
+2394,1972,Washington,9
+2395,1972,West Virginia,6
+2396,1972,Wisconsin,11
+2397,1972,Wyoming,3
+2398,1976,Alabama,9
+2399,1976,Alaska,3
+2400,1976,Arizona,6
+2401,1976,Arkansas,6
+2402,1976,California,45
+2403,1976,Colorado,7
+2404,1976,Connecticut,8
+2405,1976,D.C.,3
+2406,1976,Delaware,3
+2407,1976,Florida,17
+2408,1976,Georgia,12
+2409,1976,Hawaii,4
+2410,1976,Idaho,4
+2411,1976,Illinois,26
+2412,1976,Indiana,13
+2413,1976,Iowa,8
+2414,1976,Kansas,7
+2415,1976,Kentucky,9
+2416,1976,Louisiana,10
+2417,1976,Maine,4
+2418,1976,Maryland,10
+2419,1976,Massachusetts,14
+2420,1976,Michigan,21
+2421,1976,Minnesota,10
+2422,1976,Mississippi,7
+2423,1976,Missouri,12
+2424,1976,Montana,4
+2425,1976,Nebraska,5
+2426,1976,Nevada,3
+2427,1976,New Hampshire,4
+2428,1976,New Jersey,17
+2429,1976,New Mexico,4
+2430,1976,New York,41
+2431,1976,North Carolina,13
+2432,1976,North Dakota,3
+2433,1976,Ohio,25
+2434,1976,Oklahoma,8
+2435,1976,Oregon,6
+2436,1976,Pennsylvania,27
+2437,1976,Rhode Island,4
+2438,1976,South Carolina,8
+2439,1976,South Dakota,4
+2440,1976,Tennessee,10
+2441,1976,Texas,26
+2442,1976,Utah,4
+2443,1976,Vermont,3
+2444,1976,Virginia,12
+2445,1976,Washington,9
+2446,1976,West Virginia,6
+2447,1976,Wisconsin,11
+2448,1976,Wyoming,3
+2449,1980,Alabama,9
+2450,1980,Alaska,3
+2451,1980,Arizona,6
+2452,1980,Arkansas,6
+2453,1980,California,45
+2454,1980,Colorado,7
+2455,1980,Connecticut,8
+2456,1980,D.C.,3
+2457,1980,Delaware,3
+2458,1980,Florida,17
+2459,1980,Georgia,12
+2460,1980,Hawaii,4
+2461,1980,Idaho,4
+2462,1980,Illinois,26
+2463,1980,Indiana,13
+2464,1980,Iowa,8
+2465,1980,Kansas,7
+2466,1980,Kentucky,9
+2467,1980,Louisiana,10
+2468,1980,Maine,4
+2469,1980,Maryland,10
+2470,1980,Massachusetts,14
+2471,1980,Michigan,21
+2472,1980,Minnesota,10
+2473,1980,Mississippi,7
+2474,1980,Missouri,12
+2475,1980,Montana,4
+2476,1980,Nebraska,5
+2477,1980,Nevada,3
+2478,1980,New Hampshire,4
+2479,1980,New Jersey,17
+2480,1980,New Mexico,4
+2481,1980,New York,41
+2482,1980,North Carolina,13
+2483,1980,North Dakota,3
+2484,1980,Ohio,25
+2485,1980,Oklahoma,8
+2486,1980,Oregon,6
+2487,1980,Pennsylvania,27
+2488,1980,Rhode Island,4
+2489,1980,South Carolina,8
+2490,1980,South Dakota,4
+2491,1980,Tennessee,10
+2492,1980,Texas,26
+2493,1980,Utah,4
+2494,1980,Vermont,3
+2495,1980,Virginia,12
+2496,1980,Washington,9
+2497,1980,West Virginia,6
+2498,1980,Wisconsin,11
+2499,1980,Wyoming,3
+2500,1984,Alabama,9
+2501,1984,Alaska,3
+2502,1984,Arizona,7
+2503,1984,Arkansas,6
+2504,1984,California,47
+2505,1984,Colorado,8
+2506,1984,Connecticut,8
+2507,1984,D.C.,3
+2508,1984,Delaware,3
+2509,1984,Florida,21
+2510,1984,Georgia,12
+2511,1984,Hawaii,4
+2512,1984,Idaho,4
+2513,1984,Illinois,24
+2514,1984,Indiana,12
+2515,1984,Iowa,8
+2516,1984,Kansas,7
+2517,1984,Kentucky,9
+2518,1984,Louisiana,10
+2519,1984,Maine,4
+2520,1984,Maryland,10
+2521,1984,Massachusetts,13
+2522,1984,Michigan,20
+2523,1984,Minnesota,10
+2524,1984,Mississippi,7
+2525,1984,Missouri,11
+2526,1984,Montana,4
+2527,1984,Nebraska,5
+2528,1984,Nevada,4
+2529,1984,New Hampshire,4
+2530,1984,New Jersey,16
+2531,1984,New Mexico,5
+2532,1984,New York,36
+2533,1984,North Carolina,13
+2534,1984,North Dakota,3
+2535,1984,Ohio,23
+2536,1984,Oklahoma,8
+2537,1984,Oregon,7
+2538,1984,Pennsylvania,25
+2539,1984,Rhode Island,4
+2540,1984,South Carolina,8
+2541,1984,South Dakota,3
+2542,1984,Tennessee,11
+2543,1984,Texas,29
+2544,1984,Utah,5
+2545,1984,Vermont,3
+2546,1984,Virginia,12
+2547,1984,Washington,10
+2548,1984,West Virginia,6
+2549,1984,Wisconsin,11
+2550,1984,Wyoming,3
+2551,1988,Alabama,9
+2552,1988,Alaska,3
+2553,1988,Arizona,7
+2554,1988,Arkansas,6
+2555,1988,California,47
+2556,1988,Colorado,8
+2557,1988,Connecticut,8
+2558,1988,D.C.,3
+2559,1988,Delaware,3
+2560,1988,Florida,21
+2561,1988,Georgia,12
+2562,1988,Hawaii,4
+2563,1988,Idaho,4
+2564,1988,Illinois,24
+2565,1988,Indiana,12
+2566,1988,Iowa,8
+2567,1988,Kansas,7
+2568,1988,Kentucky,9
+2569,1988,Louisiana,10
+2570,1988,Maine,4
+2571,1988,Maryland,10
+2572,1988,Massachusetts,13
+2573,1988,Michigan,20
+2574,1988,Minnesota,10
+2575,1988,Mississippi,7
+2576,1988,Missouri,11
+2577,1988,Montana,4
+2578,1988,Nebraska,5
+2579,1988,Nevada,4
+2580,1988,New Hampshire,4
+2581,1988,New Jersey,16
+2582,1988,New Mexico,5
+2583,1988,New York,36
+2584,1988,North Carolina,13
+2585,1988,North Dakota,3
+2586,1988,Ohio,23
+2587,1988,Oklahoma,8
+2588,1988,Oregon,7
+2589,1988,Pennsylvania,25
+2590,1988,Rhode Island,4
+2591,1988,South Carolina,8
+2592,1988,South Dakota,3
+2593,1988,Tennessee,11
+2594,1988,Texas,29
+2595,1988,Utah,5
+2596,1988,Vermont,3
+2597,1988,Virginia,12
+2598,1988,Washington,10
+2599,1988,West Virginia,6
+2600,1988,Wisconsin,11
+2601,1988,Wyoming,3
+2602,1992,Alabama,9
+2603,1992,Alaska,3
+2604,1992,Arizona,8
+2605,1992,Arkansas,6
+2606,1992,California,54
+2607,1992,Colorado,8
+2608,1992,Connecticut,8
+2609,1992,D.C.,3
+2610,1992,Delaware,3
+2611,1992,Florida,25
+2612,1992,Georgia,13
+2613,1992,Hawaii,4
+2614,1992,Idaho,4
+2615,1992,Illinois,22
+2616,1992,Indiana,12
+2617,1992,Iowa,7
+2618,1992,Kansas,6
+2619,1992,Kentucky,8
+2620,1992,Louisiana,9
+2621,1992,Maine,4
+2622,1992,Maryland,10
+2623,1992,Massachusetts,12
+2624,1992,Michigan,18
+2625,1992,Minnesota,10
+2626,1992,Mississippi,7
+2627,1992,Missouri,11
+2628,1992,Montana,3
+2629,1992,Nebraska,5
+2630,1992,Nevada,4
+2631,1992,New Hampshire,4
+2632,1992,New Jersey,15
+2633,1992,New Mexico,5
+2634,1992,New York,33
+2635,1992,North Carolina,14
+2636,1992,North Dakota,3
+2637,1992,Ohio,21
+2638,1992,Oklahoma,8
+2639,1992,Oregon,7
+2640,1992,Pennsylvania,23
+2641,1992,Rhode Island,4
+2642,1992,South Carolina,8
+2643,1992,South Dakota,3
+2644,1992,Tennessee,11
+2645,1992,Texas,32
+2646,1992,Utah,5
+2647,1992,Vermont,3
+2648,1992,Virginia,13
+2649,1992,Washington,11
+2650,1992,West Virginia,5
+2651,1992,Wisconsin,11
+2652,1992,Wyoming,3
+2653,1996,Alabama,9
+2654,1996,Alaska,3
+2655,1996,Arizona,8
+2656,1996,Arkansas,6
+2657,1996,California,54
+2658,1996,Colorado,8
+2659,1996,Connecticut,8
+2660,1996,D.C.,3
+2661,1996,Delaware,3
+2662,1996,Florida,25
+2663,1996,Georgia,13
+2664,1996,Hawaii,4
+2665,1996,Idaho,4
+2666,1996,Illinois,22
+2667,1996,Indiana,12
+2668,1996,Iowa,7
+2669,1996,Kansas,6
+2670,1996,Kentucky,8
+2671,1996,Louisiana,9
+2672,1996,Maine,4
+2673,1996,Maryland,10
+2674,1996,Massachusetts,12
+2675,1996,Michigan,18
+2676,1996,Minnesota,10
+2677,1996,Mississippi,7
+2678,1996,Missouri,11
+2679,1996,Montana,3
+2680,1996,Nebraska,5
+2681,1996,Nevada,4
+2682,1996,New Hampshire,4
+2683,1996,New Jersey,15
+2684,1996,New Mexico,5
+2685,1996,New York,33
+2686,1996,North Carolina,14
+2687,1996,North Dakota,3
+2688,1996,Ohio,21
+2689,1996,Oklahoma,8
+2690,1996,Oregon,7
+2691,1996,Pennsylvania,23
+2692,1996,Rhode Island,4
+2693,1996,South Carolina,8
+2694,1996,South Dakota,3
+2695,1996,Tennessee,11
+2696,1996,Texas,32
+2697,1996,Utah,5
+2698,1996,Vermont,3
+2699,1996,Virginia,13
+2700,1996,Washington,11
+2701,1996,West Virginia,5
+2702,1996,Wisconsin,11
+2703,1996,Wyoming,3
+2704,2000,Alabama,9
+2705,2000,Alaska,3
+2706,2000,Arizona,8
+2707,2000,Arkansas,6
+2708,2000,California,54
+2709,2000,Colorado,8
+2710,2000,Connecticut,8
+2711,2000,D.C.,3
+2712,2000,Delaware,3
+2713,2000,Florida,25
+2714,2000,Georgia,13
+2715,2000,Hawaii,4
+2716,2000,Idaho,4
+2717,2000,Illinois,22
+2718,2000,Indiana,12
+2719,2000,Iowa,7
+2720,2000,Kansas,6
+2721,2000,Kentucky,8
+2722,2000,Louisiana,9
+2723,2000,Maine,4
+2724,2000,Maryland,10
+2725,2000,Massachusetts,12
+2726,2000,Michigan,18
+2727,2000,Minnesota,10
+2728,2000,Mississippi,7
+2729,2000,Missouri,11
+2730,2000,Montana,3
+2731,2000,Nebraska,5
+2732,2000,Nevada,4
+2733,2000,New Hampshire,4
+2734,2000,New Jersey,15
+2735,2000,New Mexico,5
+2736,2000,New York,33
+2737,2000,North Carolina,14
+2738,2000,North Dakota,3
+2739,2000,Ohio,21
+2740,2000,Oklahoma,8
+2741,2000,Oregon,7
+2742,2000,Pennsylvania,23
+2743,2000,Rhode Island,4
+2744,2000,South Carolina,8
+2745,2000,South Dakota,3
+2746,2000,Tennessee,11
+2747,2000,Texas,32
+2748,2000,Utah,5
+2749,2000,Vermont,3
+2750,2000,Virginia,13
+2751,2000,Washington,11
+2752,2000,West Virginia,5
+2753,2000,Wisconsin,11
+2754,2000,Wyoming,3
+2755,2004,Alabama,9
+2756,2004,Alaska,3
+2757,2004,Arizona,10
+2758,2004,Arkansas,6
+2759,2004,California,55
+2760,2004,Colorado,9
+2761,2004,Connecticut,7
+2762,2004,D.C.,3
+2763,2004,Delaware,3
+2764,2004,Florida,27
+2765,2004,Georgia,15
+2766,2004,Hawaii,4
+2767,2004,Idaho,4
+2768,2004,Illinois,21
+2769,2004,Indiana,11
+2770,2004,Iowa,7
+2771,2004,Kansas,6
+2772,2004,Kentucky,8
+2773,2004,Louisiana,9
+2774,2004,Maine,4
+2775,2004,Maryland,10
+2776,2004,Massachusetts,12
+2777,2004,Michigan,17
+2778,2004,Minnesota,10
+2779,2004,Mississippi,6
+2780,2004,Missouri,11
+2781,2004,Montana,3
+2782,2004,Nebraska,5
+2783,2004,Nevada,5
+2784,2004,New Hampshire,4
+2785,2004,New Jersey,15
+2786,2004,New Mexico,5
+2787,2004,New York,31
+2788,2004,North Carolina,15
+2789,2004,North Dakota,3
+2790,2004,Ohio,20
+2791,2004,Oklahoma,7
+2792,2004,Oregon,7
+2793,2004,Pennsylvania,21
+2794,2004,Rhode Island,4
+2795,2004,South Carolina,8
+2796,2004,South Dakota,3
+2797,2004,Tennessee,11
+2798,2004,Texas,34
+2799,2004,Utah,5
+2800,2004,Vermont,3
+2801,2004,Virginia,13
+2802,2004,Washington,11
+2803,2004,West Virginia,5
+2804,2004,Wisconsin,10
+2805,2004,Wyoming,3
+2806,2008,Alabama,9
+2807,2008,Alaska,3
+2808,2008,Arizona,10
+2809,2008,Arkansas,6
+2810,2008,California,55
+2811,2008,Colorado,9
+2812,2008,Connecticut,7
+2813,2008,D.C.,3
+2814,2008,Delaware,3
+2815,2008,Florida,27
+2816,2008,Georgia,15
+2817,2008,Hawaii,4
+2818,2008,Idaho,4
+2819,2008,Illinois,21
+2820,2008,Indiana,11
+2821,2008,Iowa,7
+2822,2008,Kansas,6
+2823,2008,Kentucky,8
+2824,2008,Louisiana,9
+2825,2008,Maine,4
+2826,2008,Maryland,10
+2827,2008,Massachusetts,12
+2828,2008,Michigan,17
+2829,2008,Minnesota,10
+2830,2008,Mississippi,6
+2831,2008,Missouri,11
+2832,2008,Montana,3
+2833,2008,Nebraska,5
+2834,2008,Nevada,5
+2835,2008,New Hampshire,4
+2836,2008,New Jersey,15
+2837,2008,New Mexico,5
+2838,2008,New York,31
+2839,2008,North Carolina,15
+2840,2008,North Dakota,3
+2841,2008,Ohio,20
+2842,2008,Oklahoma,7
+2843,2008,Oregon,7
+2844,2008,Pennsylvania,21
+2845,2008,Rhode Island,4
+2846,2008,South Carolina,8
+2847,2008,South Dakota,3
+2848,2008,Tennessee,11
+2849,2008,Texas,34
+2850,2008,Utah,5
+2851,2008,Vermont,3
+2852,2008,Virginia,13
+2853,2008,Washington,11
+2854,2008,West Virginia,5
+2855,2008,Wisconsin,10
+2856,2008,Wyoming,3
+2857,2012,Alabama,9
+2858,2012,Alaska,3
+2859,2012,Arizona,11
+2860,2012,Arkansas,6
+2861,2012,California,55
+2862,2012,Colorado,9
+2863,2012,Connecticut,7
+2864,2012,D.C.,3
+2865,2012,Delaware,3
+2866,2012,Florida,29
+2867,2012,Georgia,16
+2868,2012,Hawaii,4
+2869,2012,Idaho,4
+2870,2012,Illinois,20
+2871,2012,Indiana,11
+2872,2012,Iowa,6
+2873,2012,Kansas,6
+2874,2012,Kentucky,8
+2875,2012,Louisiana,8
+2876,2012,Maine,4
+2877,2012,Maryland,10
+2878,2012,Massachusetts,11
+2879,2012,Michigan,16
+2880,2012,Minnesota,10
+2881,2012,Mississippi,6
+2882,2012,Missouri,10
+2883,2012,Montana,3
+2884,2012,Nebraska,5
+2885,2012,Nevada,6
+2886,2012,New Hampshire,4
+2887,2012,New Jersey,14
+2888,2012,New Mexico,5
+2889,2012,New York,29
+2890,2012,North Carolina,15
+2891,2012,North Dakota,3
+2892,2012,Ohio,18
+2893,2012,Oklahoma,7
+2894,2012,Oregon,7
+2895,2012,Pennsylvania,20
+2896,2012,Rhode Island,4
+2897,2012,South Carolina,9
+2898,2012,South Dakota,3
+2899,2012,Tennessee,11
+2900,2012,Texas,38
+2901,2012,Utah,6
+2902,2012,Vermont,3
+2903,2012,Virginia,13
+2904,2012,Washington,12
+2905,2012,West Virginia,5
+2906,2012,Wisconsin,10
+2907,2012,Wyoming,3
+2908,2016,Alabama,9
+2909,2016,Alaska,3
+2910,2016,Arizona,11
+2911,2016,Arkansas,6
+2912,2016,California,55
+2913,2016,Colorado,9
+2914,2016,Connecticut,7
+2915,2016,D.C.,3
+2916,2016,Delaware,3
+2917,2016,Florida,29
+2918,2016,Georgia,16
+2919,2016,Hawaii,4
+2920,2016,Idaho,4
+2921,2016,Illinois,20
+2922,2016,Indiana,11
+2923,2016,Iowa,6
+2924,2016,Kansas,6
+2925,2016,Kentucky,8
+2926,2016,Louisiana,8
+2927,2016,Maine,4
+2928,2016,Maryland,10
+2929,2016,Massachusetts,11
+2930,2016,Michigan,16
+2931,2016,Minnesota,10
+2932,2016,Mississippi,6
+2933,2016,Missouri,10
+2934,2016,Montana,3
+2935,2016,Nebraska,5
+2936,2016,Nevada,6
+2937,2016,New Hampshire,4
+2938,2016,New Jersey,14
+2939,2016,New Mexico,5
+2940,2016,New York,29
+2941,2016,North Carolina,15
+2942,2016,North Dakota,3
+2943,2016,Ohio,18
+2944,2016,Oklahoma,7
+2945,2016,Oregon,7
+2946,2016,Pennsylvania,20
+2947,2016,Rhode Island,4
+2948,2016,South Carolina,9
+2949,2016,South Dakota,3
+2950,2016,Tennessee,11
+2951,2016,Texas,38
+2952,2016,Utah,6
+2953,2016,Vermont,3
+2954,2016,Virginia,13
+2955,2016,Washington,12
+2956,2016,West Virginia,5
+2957,2016,Wisconsin,10
+2958,2016,Wyoming,3
+2959,2020,Alabama,9
+2960,2020,Alaska,3
+2961,2020,Arizona,11
+2962,2020,Arkansas,6
+2963,2020,California,55
+2964,2020,Colorado,9
+2965,2020,Connecticut,7
+2966,2020,D.C.,3
+2967,2020,Delaware,3
+2968,2020,Florida,29
+2969,2020,Georgia,16
+2970,2020,Hawaii,4
+2971,2020,Idaho,4
+2972,2020,Illinois,20
+2973,2020,Indiana,11
+2974,2020,Iowa,6
+2975,2020,Kansas,6
+2976,2020,Kentucky,8
+2977,2020,Louisiana,8
+2978,2020,Maine,4
+2979,2020,Maryland,10
+2980,2020,Massachusetts,11
+2981,2020,Michigan,16
+2982,2020,Minnesota,10
+2983,2020,Mississippi,6
+2984,2020,Missouri,10
+2985,2020,Montana,3
+2986,2020,Nebraska,5
+2987,2020,Nevada,6
+2988,2020,New Hampshire,4
+2989,2020,New Jersey,14
+2990,2020,New Mexico,5
+2991,2020,New York,29
+2992,2020,North Carolina,15
+2993,2020,North Dakota,3
+2994,2020,Ohio,18
+2995,2020,Oklahoma,7
+2996,2020,Oregon,7
+2997,2020,Pennsylvania,20
+2998,2020,Rhode Island,4
+2999,2020,South Carolina,9
+3000,2020,South Dakota,3
+3001,2020,Tennessee,11
+3002,2020,Texas,38
+3003,2020,Utah,6
+3004,2020,Vermont,3
+3005,2020,Virginia,13
+3006,2020,Washington,12
+3007,2020,West Virginia,5
+3008,2020,Wisconsin,10
+3009,2020,Wyoming,3
